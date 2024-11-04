@@ -1,0 +1,99 @@
+INFO  15:55:15,804 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  15:55:15,900 - #40 program
+INFO  15:55:15,900 - #24 MJProgram
+INFO  15:55:15,900 - #24 int
+INFO  15:55:15,901 - #24 x
+INFO  15:55:15,902 - #47 ;
+INFO  15:55:15,904 - #24 int
+INFO  15:55:15,905 - #24 y
+INFO  15:55:15,905 - #47 ;
+INFO  15:55:15,905 - #27 {
+INFO  15:55:15,905 - #24 int
+INFO  15:55:15,906 - #24 k
+INFO  15:55:15,906 - #29 (
+INFO  15:55:15,906 - #46 )
+INFO  15:55:15,908 - #24 int
+INFO  15:55:15,909 - #24 c
+INFO  15:55:15,909 - #47 ;
+INFO  15:55:15,909 - #27 {
+INFO  15:55:15,909 - #42 }
+INFO  15:55:15,910 - #24 int
+INFO  15:55:15,911 - #24 main
+INFO  15:55:15,911 - #29 (
+INFO  15:55:15,911 - #46 )
+INFO  15:55:15,911 - #27 {
+INFO  15:55:15,911 - #42 }
+INFO  15:55:15,911 - #42 }
+INFO  15:55:15,912 - Program(
+  DeclarationList(
+    DeclarationList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      VarDeclaration(
+        VarDecl(
+          Type(
+          ) [Type]
+          OneIdent(
+            Ident(
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        Type(
+        ) [Type]
+        OneIdent(
+          Ident(
+            NoBrackets(
+            ) [NoBrackets]
+          ) [Ident]
+        ) [OneIdent]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDeclType(
+        Type(
+        ) [Type]
+        NoFormPars(
+        ) [NoFormPars]
+        VarDeclarationList(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDecl(
+            Type(
+            ) [Type]
+            OneIdent(
+              Ident(
+                NoBrackets(
+                ) [NoBrackets]
+              ) [Ident]
+            ) [OneIdent]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        NoStatementList(
+        ) [NoStatementList]
+      ) [MethodDeclType]
+    ) [MethodDeclarationList]
+    MethodDeclType(
+      Type(
+      ) [Type]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      NoStatementList(
+      ) [NoStatementList]
+    ) [MethodDeclType]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  15:55:15,912 - ===================================
+INFO  15:55:15,914 -  Print count calls = 0
+INFO  15:55:15,914 -  Deklarisanih promenljivih ima = 3

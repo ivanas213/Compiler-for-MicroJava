@@ -1,0 +1,1806 @@
+INFO  02:09:15,866 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\test301.mj
+INFO  02:09:15,966 - #34 program
+INFO  02:09:15,966 - #44 test301
+INFO  02:09:15,967 - #7 const
+INFO  02:09:15,969 - #44 int
+INFO  02:09:15,969 - #44 nula
+INFO  02:09:15,973 - #4 =
+INFO  02:09:15,973 - #45 0
+INFO  02:09:15,973 - #41 ;
+INFO  02:09:15,976 - #7 const
+INFO  02:09:15,976 - #44 int
+INFO  02:09:15,976 - #44 jedan
+INFO  02:09:15,977 - #4 =
+INFO  02:09:15,977 - #45 1
+INFO  02:09:15,977 - #41 ;
+INFO  02:09:15,977 - #7 const
+INFO  02:09:15,977 - #44 int
+INFO  02:09:15,977 - #44 pet
+INFO  02:09:15,977 - #4 =
+INFO  02:09:15,977 - #45 5
+INFO  02:09:15,977 - #41 ;
+INFO  02:09:15,977 - #44 int
+INFO  02:09:15,977 - #44 niz
+INFO  02:09:15,991 - #25 [
+INFO  02:09:15,991 - #37 ]
+INFO  02:09:15,991 - #8 ,
+INFO  02:09:15,993 - #44 niz2
+INFO  02:09:15,993 - #25 [
+INFO  02:09:15,993 - #37 ]
+INFO  02:09:15,993 - #8 ,
+INFO  02:09:15,993 - #44 a
+INFO  02:09:15,993 - #8 ,
+INFO  02:09:15,994 - #44 b
+INFO  02:09:15,994 - #41 ;
+INFO  02:09:15,994 - #44 char
+INFO  02:09:15,995 - #44 nizch
+INFO  02:09:15,995 - #25 [
+INFO  02:09:15,995 - #37 ]
+INFO  02:09:15,995 - #41 ;
+INFO  02:09:15,995 - #24 {
+INFO  02:09:15,995 - #42 void
+INFO  02:09:15,996 - #44 main
+INFO  02:09:15,997 - #26 (
+INFO  02:09:15,997 - #40 )
+INFO  02:09:15,998 - #44 int
+INFO  02:09:15,999 - #44 bodovi
+INFO  02:09:15,999 - #41 ;
+INFO  02:09:16,000 - #44 bool
+INFO  02:09:16,000 - #44 br
+INFO  02:09:16,001 - #41 ;
+INFO  02:09:16,001 - #24 {
+INFO  02:09:16,001 - #44 bodovi
+INFO  02:09:16,002 - #4 =
+INFO  02:09:16,002 - #45 0
+INFO  02:09:16,003 - #41 ;
+INFO  02:09:16,005 - #44 bodovi
+INFO  02:09:16,005 - #22 ++
+INFO  02:09:16,005 - #41 ;
+INFO  02:09:16,005 - #44 bodovi
+INFO  02:09:16,005 - #4 =
+INFO  02:09:16,005 - #44 bodovi
+INFO  02:09:16,005 - #48 +
+INFO  02:09:16,006 - #44 jedan
+INFO  02:09:16,006 - #41 ;
+INFO  02:09:16,007 - #44 bodovi
+INFO  02:09:16,007 - #4 =
+INFO  02:09:16,007 - #44 bodovi
+INFO  02:09:16,007 - #29 *
+INFO  02:09:16,007 - #44 pet
+INFO  02:09:16,008 - #41 ;
+INFO  02:09:16,009 - #44 bodovi
+INFO  02:09:16,009 - #10 --
+INFO  02:09:16,009 - #41 ;
+INFO  02:09:16,009 - #33 print
+INFO  02:09:16,009 - #26 (
+INFO  02:09:16,009 - #44 bodovi
+INFO  02:09:16,009 - #40 )
+INFO  02:09:16,010 - #41 ;
+INFO  02:09:16,010 - #44 niz
+INFO  02:09:16,010 - #4 =
+INFO  02:09:16,010 - #30 new
+INFO  02:09:16,010 - #44 int
+INFO  02:09:16,010 - #25 [
+INFO  02:09:16,010 - #45 3
+INFO  02:09:16,010 - #37 ]
+INFO  02:09:16,010 - #41 ;
+INFO  02:09:16,010 - #44 niz
+INFO  02:09:16,010 - #25 [
+INFO  02:09:16,011 - #44 nula
+INFO  02:09:16,011 - #37 ]
+INFO  02:09:16,011 - #4 =
+INFO  02:09:16,011 - #44 jedan
+INFO  02:09:16,011 - #41 ;
+INFO  02:09:16,011 - #33 print
+INFO  02:09:16,011 - #26 (
+INFO  02:09:16,011 - #44 niz
+INFO  02:09:16,011 - #25 [
+INFO  02:09:16,011 - #44 nula
+INFO  02:09:16,011 - #37 ]
+INFO  02:09:16,011 - #40 )
+INFO  02:09:16,011 - #41 ;
+INFO  02:09:16,011 - #44 niz
+INFO  02:09:16,011 - #25 [
+INFO  02:09:16,011 - #45 1
+INFO  02:09:16,011 - #37 ]
+INFO  02:09:16,011 - #4 =
+INFO  02:09:16,011 - #45 2
+INFO  02:09:16,012 - #41 ;
+INFO  02:09:16,012 - #33 print
+INFO  02:09:16,012 - #26 (
+INFO  02:09:16,012 - #44 niz
+INFO  02:09:16,012 - #25 [
+INFO  02:09:16,012 - #45 1
+INFO  02:09:16,012 - #37 ]
+INFO  02:09:16,012 - #40 )
+INFO  02:09:16,012 - #41 ;
+INFO  02:09:16,012 - #44 niz
+INFO  02:09:16,012 - #25 [
+INFO  02:09:16,012 - #44 niz
+INFO  02:09:16,012 - #25 [
+INFO  02:09:16,012 - #44 jedan
+INFO  02:09:16,012 - #37 ]
+INFO  02:09:16,012 - #37 ]
+INFO  02:09:16,012 - #4 =
+INFO  02:09:16,012 - #44 niz
+INFO  02:09:16,013 - #25 [
+INFO  02:09:16,013 - #44 niz
+INFO  02:09:16,013 - #25 [
+INFO  02:09:16,013 - #45 0
+INFO  02:09:16,013 - #37 ]
+INFO  02:09:16,013 - #37 ]
+INFO  02:09:16,013 - #29 *
+INFO  02:09:16,013 - #45 3
+INFO  02:09:16,013 - #41 ;
+INFO  02:09:16,013 - #44 bodovi
+INFO  02:09:16,013 - #4 =
+INFO  02:09:16,013 - #44 niz
+INFO  02:09:16,013 - #25 [
+INFO  02:09:16,013 - #45 2
+INFO  02:09:16,013 - #37 ]
+INFO  02:09:16,013 - #11 /
+INFO  02:09:16,013 - #44 niz
+INFO  02:09:16,014 - #25 [
+INFO  02:09:16,014 - #45 0
+INFO  02:09:16,015 - #37 ]
+INFO  02:09:16,015 - #41 ;
+INFO  02:09:16,015 - #33 print
+INFO  02:09:16,015 - #26 (
+INFO  02:09:16,015 - #44 bodovi
+INFO  02:09:16,015 - #40 )
+INFO  02:09:16,016 - #41 ;
+INFO  02:09:16,016 - #33 print
+INFO  02:09:16,016 - #26 (
+INFO  02:09:16,016 - #44 niz
+INFO  02:09:16,016 - #25 [
+INFO  02:09:16,016 - #45 2
+INFO  02:09:16,016 - #37 ]
+INFO  02:09:16,016 - #40 )
+INFO  02:09:16,016 - #41 ;
+INFO  02:09:16,016 - #44 br
+INFO  02:09:16,016 - #4 =
+INFO  02:09:16,016 - #44 niz
+INFO  02:09:16,016 - #12 .
+INFO  02:09:16,016 - #18 findAny
+INFO  02:09:16,016 - #26 (
+INFO  02:09:16,016 - #44 jedan
+INFO  02:09:16,016 - #48 +
+INFO  02:09:16,016 - #44 pet
+INFO  02:09:16,016 - #40 )
+INFO  02:09:16,016 - #41 ;
+INFO  02:09:16,016 - #33 print
+INFO  02:09:16,017 - #26 (
+INFO  02:09:16,017 - #44 br
+INFO  02:09:16,017 - #40 )
+INFO  02:09:16,017 - #41 ;
+INFO  02:09:16,017 - #44 nizch
+INFO  02:09:16,017 - #4 =
+INFO  02:09:16,017 - #30 new
+INFO  02:09:16,017 - #44 char
+INFO  02:09:16,017 - #25 [
+INFO  02:09:16,017 - #45 3
+INFO  02:09:16,017 - #37 ]
+INFO  02:09:16,017 - #41 ;
+INFO  02:09:16,018 - #44 nizch
+INFO  02:09:16,018 - #25 [
+INFO  02:09:16,018 - #45 0
+INFO  02:09:16,018 - #37 ]
+INFO  02:09:16,018 - #4 =
+INFO  02:09:16,018 - #47 a
+INFO  02:09:16,018 - #41 ;
+INFO  02:09:16,018 - #44 nizch
+INFO  02:09:16,018 - #25 [
+INFO  02:09:16,018 - #44 jedan
+INFO  02:09:16,018 - #37 ]
+INFO  02:09:16,018 - #4 =
+INFO  02:09:16,018 - #47 b
+INFO  02:09:16,018 - #41 ;
+INFO  02:09:16,018 - #44 nizch
+INFO  02:09:16,018 - #25 [
+INFO  02:09:16,018 - #44 pet
+INFO  02:09:16,019 - #49 -
+INFO  02:09:16,019 - #45 3
+INFO  02:09:16,019 - #37 ]
+INFO  02:09:16,019 - #4 =
+INFO  02:09:16,019 - #47 c
+INFO  02:09:16,019 - #41 ;
+INFO  02:09:16,019 - #33 print
+INFO  02:09:16,019 - #26 (
+INFO  02:09:16,019 - #44 nizch
+INFO  02:09:16,019 - #25 [
+INFO  02:09:16,019 - #45 1
+INFO  02:09:16,019 - #37 ]
+INFO  02:09:16,019 - #40 )
+INFO  02:09:16,019 - #41 ;
+INFO  02:09:16,019 - #33 print
+INFO  02:09:16,019 - #26 (
+INFO  02:09:16,019 - #44 nizch
+INFO  02:09:16,019 - #25 [
+INFO  02:09:16,019 - #44 jedan
+INFO  02:09:16,019 - #29 *
+INFO  02:09:16,019 - #45 2
+INFO  02:09:16,019 - #37 ]
+INFO  02:09:16,019 - #40 )
+INFO  02:09:16,020 - #41 ;
+INFO  02:09:16,020 - #44 bodovi
+INFO  02:09:16,020 - #4 =
+INFO  02:09:16,020 - #49 -
+INFO  02:09:16,020 - #44 bodovi
+INFO  02:09:16,020 - #48 +
+INFO  02:09:16,020 - #26 (
+INFO  02:09:16,020 - #44 pet
+INFO  02:09:16,020 - #29 *
+INFO  02:09:16,020 - #44 a
+INFO  02:09:16,020 - #11 /
+INFO  02:09:16,020 - #45 2
+INFO  02:09:16,020 - #49 -
+INFO  02:09:16,020 - #44 jedan
+INFO  02:09:16,020 - #40 )
+INFO  02:09:16,020 - #29 *
+INFO  02:09:16,020 - #44 bodovi
+INFO  02:09:16,021 - #49 -
+INFO  02:09:16,021 - #26 (
+INFO  02:09:16,021 - #45 3
+INFO  02:09:16,021 - #32 %
+INFO  02:09:16,021 - #45 2
+INFO  02:09:16,022 - #48 +
+INFO  02:09:16,022 - #45 3
+INFO  02:09:16,022 - #29 *
+INFO  02:09:16,022 - #45 2
+INFO  02:09:16,022 - #49 -
+INFO  02:09:16,022 - #45 3
+INFO  02:09:16,022 - #40 )
+INFO  02:09:16,022 - #41 ;
+INFO  02:09:16,022 - #33 print
+INFO  02:09:16,022 - #26 (
+INFO  02:09:16,022 - #44 bodovi
+INFO  02:09:16,023 - #40 )
+INFO  02:09:16,023 - #41 ;
+INFO  02:09:16,023 - #36 }
+INFO  02:09:16,023 - #36 }
+INFO  02:09:16,033 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            NoDeclarations(
+            ) [NoDeclarations]
+            ConstDeclatation(
+              ConstDecl(
+                ConstType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [ConstType]
+                OneIdentVal(
+                  IdentVal(
+                   nula
+                    NumConstant(
+                     0
+                    ) [NumConstant]
+                  ) [IdentVal]
+                ) [OneIdentVal]
+              ) [ConstDecl]
+            ) [ConstDeclatation]
+          ) [DeclarationList]
+          ConstDeclatation(
+            ConstDecl(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              OneIdentVal(
+                IdentVal(
+                 jedan
+                  NumConstant(
+                   1
+                  ) [NumConstant]
+                ) [IdentVal]
+              ) [OneIdentVal]
+            ) [ConstDecl]
+          ) [ConstDeclatation]
+        ) [DeclarationList]
+        ConstDeclatation(
+          ConstDecl(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            OneIdentVal(
+              IdentVal(
+               pet
+                NumConstant(
+                 5
+                ) [NumConstant]
+              ) [IdentVal]
+            ) [OneIdentVal]
+          ) [ConstDecl]
+        ) [ConstDeclatation]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDecl(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+          IdentificatorList(
+            IdentificatorList(
+              IdentificatorList(
+                OneIdent(
+                  Ident(
+                   niz
+                    Brackets(
+                    ) [Brackets]
+                  ) [Ident]
+                ) [OneIdent]
+                Ident(
+                 niz2
+                  Brackets(
+                  ) [Brackets]
+                ) [Ident]
+              ) [IdentificatorList]
+              Ident(
+               a
+                NoBrackets(
+                ) [NoBrackets]
+              ) [Ident]
+            ) [IdentificatorList]
+            Ident(
+             b
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [IdentificatorList]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        VarType(
+          Type(
+           char
+          ) [Type]
+        ) [VarType]
+        OneIdent(
+          Ident(
+           nizch
+            Brackets(
+            ) [Brackets]
+          ) [Ident]
+        ) [OneIdent]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarationList(
+        VarDeclarationList(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDecl(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            OneIdent(
+              Ident(
+               bodovi
+                NoBrackets(
+                ) [NoBrackets]
+              ) [Ident]
+            ) [OneIdent]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        VarDecl(
+          VarType(
+            Type(
+             bool
+            ) [Type]
+          ) [VarType]
+          OneIdent(
+            Ident(
+             br
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      StmList(
+        StmList(
+          StmList(
+            StmList(
+              StmList(
+                StmList(
+                  StmList(
+                    StmList(
+                      StmList(
+                        StmList(
+                          StmList(
+                            StmList(
+                              StmList(
+                                StmList(
+                                  StmList(
+                                    StmList(
+                                      StmList(
+                                        StmList(
+                                          StmList(
+                                            StmList(
+                                              StmList(
+                                                StmList(
+                                                  StmList(
+                                                    StmList(
+                                                      StmList(
+                                                        NoStatementList(
+                                                        ) [NoStatementList]
+                                                        DesignatorStatementStatement(
+                                                          DesignatorExpress(
+                                                            NoIdentOrExprList(
+                                                             bodovi
+                                                            ) [NoIdentOrExprList]
+                                                            AssignOp(
+                                                            ) [AssignOp]
+                                                            DesignatorExpr(
+                                                              Expr(
+                                                                OneAddopTerm(
+                                                                  Term(
+                                                                    OneMulopFactor(
+                                                                      FactorNumConst(
+                                                                       0
+                                                                      ) [FactorNumConst]
+                                                                    ) [OneMulopFactor]
+                                                                  ) [Term]
+                                                                ) [OneAddopTerm]
+                                                              ) [Expr]
+                                                            ) [DesignatorExpr]
+                                                          ) [DesignatorExpress]
+                                                        ) [DesignatorStatementStatement]
+                                                      ) [StmList]
+                                                      DesignatorStatementStatement(
+                                                        DesignatorInc(
+                                                          NoIdentOrExprList(
+                                                           bodovi
+                                                          ) [NoIdentOrExprList]
+                                                        ) [DesignatorInc]
+                                                      ) [DesignatorStatementStatement]
+                                                    ) [StmList]
+                                                    DesignatorStatementStatement(
+                                                      DesignatorExpress(
+                                                        NoIdentOrExprList(
+                                                         bodovi
+                                                        ) [NoIdentOrExprList]
+                                                        AssignOp(
+                                                        ) [AssignOp]
+                                                        DesignatorExpr(
+                                                          Expr(
+                                                            AddopTerminalList(
+                                                              OneAddopTerm(
+                                                                Term(
+                                                                  OneMulopFactor(
+                                                                    FactorDesignator(
+                                                                      NoIdentOrExprList(
+                                                                       bodovi
+                                                                      ) [NoIdentOrExprList]
+                                                                      NoFunc(
+                                                                      ) [NoFunc]
+                                                                    ) [FactorDesignator]
+                                                                  ) [OneMulopFactor]
+                                                                ) [Term]
+                                                              ) [OneAddopTerm]
+                                                              AddopTerm(
+                                                                AddopPlus(
+                                                                 +
+                                                                ) [AddopPlus]
+                                                                Term(
+                                                                  OneMulopFactor(
+                                                                    FactorDesignator(
+                                                                      NoIdentOrExprList(
+                                                                       jedan
+                                                                      ) [NoIdentOrExprList]
+                                                                      NoFunc(
+                                                                      ) [NoFunc]
+                                                                    ) [FactorDesignator]
+                                                                  ) [OneMulopFactor]
+                                                                ) [Term]
+                                                              ) [AddopTerm]
+                                                            ) [AddopTerminalList]
+                                                          ) [Expr]
+                                                        ) [DesignatorExpr]
+                                                      ) [DesignatorExpress]
+                                                    ) [DesignatorStatementStatement]
+                                                  ) [StmList]
+                                                  DesignatorStatementStatement(
+                                                    DesignatorExpress(
+                                                      NoIdentOrExprList(
+                                                       bodovi
+                                                      ) [NoIdentOrExprList]
+                                                      AssignOp(
+                                                      ) [AssignOp]
+                                                      DesignatorExpr(
+                                                        Expr(
+                                                          OneAddopTerm(
+                                                            Term(
+                                                              MulopFactL(
+                                                                OneMulopFactor(
+                                                                  FactorDesignator(
+                                                                    NoIdentOrExprList(
+                                                                     bodovi
+                                                                    ) [NoIdentOrExprList]
+                                                                    NoFunc(
+                                                                    ) [NoFunc]
+                                                                  ) [FactorDesignator]
+                                                                ) [OneMulopFactor]
+                                                                MulopFactor(
+                                                                  MulopMul(
+                                                                  ) [MulopMul]
+                                                                  FactorDesignator(
+                                                                    NoIdentOrExprList(
+                                                                     pet
+                                                                    ) [NoIdentOrExprList]
+                                                                    NoFunc(
+                                                                    ) [NoFunc]
+                                                                  ) [FactorDesignator]
+                                                                ) [MulopFactor]
+                                                              ) [MulopFactL]
+                                                            ) [Term]
+                                                          ) [OneAddopTerm]
+                                                        ) [Expr]
+                                                      ) [DesignatorExpr]
+                                                    ) [DesignatorExpress]
+                                                  ) [DesignatorStatementStatement]
+                                                ) [StmList]
+                                                DesignatorStatementStatement(
+                                                  DesignatorDec(
+                                                    NoIdentOrExprList(
+                                                     bodovi
+                                                    ) [NoIdentOrExprList]
+                                                  ) [DesignatorDec]
+                                                ) [DesignatorStatementStatement]
+                                              ) [StmList]
+                                              PrintStatement(
+                                                Expr(
+                                                  OneAddopTerm(
+                                                    Term(
+                                                      OneMulopFactor(
+                                                        FactorDesignator(
+                                                          NoIdentOrExprList(
+                                                           bodovi
+                                                          ) [NoIdentOrExprList]
+                                                          NoFunc(
+                                                          ) [NoFunc]
+                                                        ) [FactorDesignator]
+                                                      ) [OneMulopFactor]
+                                                    ) [Term]
+                                                  ) [OneAddopTerm]
+                                                ) [Expr]
+                                                NoWide(
+                                                ) [NoWide]
+                                              ) [PrintStatement]
+                                            ) [StmList]
+                                            DesignatorStatementStatement(
+                                              DesignatorExpress(
+                                                NoIdentOrExprList(
+                                                 niz
+                                                ) [NoIdentOrExprList]
+                                                AssignOp(
+                                                ) [AssignOp]
+                                                DesignatorExpr(
+                                                  Expr(
+                                                    OneAddopTerm(
+                                                      Term(
+                                                        OneMulopFactor(
+                                                          FactorNew(
+                                                            Type(
+                                                             int
+                                                            ) [Type]
+                                                            NewTypeExpr(
+                                                              Expr(
+                                                                OneAddopTerm(
+                                                                  Term(
+                                                                    OneMulopFactor(
+                                                                      FactorNumConst(
+                                                                       3
+                                                                      ) [FactorNumConst]
+                                                                    ) [OneMulopFactor]
+                                                                  ) [Term]
+                                                                ) [OneAddopTerm]
+                                                              ) [Expr]
+                                                            ) [NewTypeExpr]
+                                                          ) [FactorNew]
+                                                        ) [OneMulopFactor]
+                                                      ) [Term]
+                                                    ) [OneAddopTerm]
+                                                  ) [Expr]
+                                                ) [DesignatorExpr]
+                                              ) [DesignatorExpress]
+                                            ) [DesignatorStatementStatement]
+                                          ) [StmList]
+                                          DesignatorStatementStatement(
+                                            DesignatorExpress(
+                                              IdentOrExprL(
+                                                NoIdentOrExprList(
+                                                 niz
+                                                ) [NoIdentOrExprList]
+                                                IdentOrExprExpr(
+                                                  Expr(
+                                                    OneAddopTerm(
+                                                      Term(
+                                                        OneMulopFactor(
+                                                          FactorDesignator(
+                                                            NoIdentOrExprList(
+                                                             nula
+                                                            ) [NoIdentOrExprList]
+                                                            NoFunc(
+                                                            ) [NoFunc]
+                                                          ) [FactorDesignator]
+                                                        ) [OneMulopFactor]
+                                                      ) [Term]
+                                                    ) [OneAddopTerm]
+                                                  ) [Expr]
+                                                ) [IdentOrExprExpr]
+                                              ) [IdentOrExprL]
+                                              AssignOp(
+                                              ) [AssignOp]
+                                              DesignatorExpr(
+                                                Expr(
+                                                  OneAddopTerm(
+                                                    Term(
+                                                      OneMulopFactor(
+                                                        FactorDesignator(
+                                                          NoIdentOrExprList(
+                                                           jedan
+                                                          ) [NoIdentOrExprList]
+                                                          NoFunc(
+                                                          ) [NoFunc]
+                                                        ) [FactorDesignator]
+                                                      ) [OneMulopFactor]
+                                                    ) [Term]
+                                                  ) [OneAddopTerm]
+                                                ) [Expr]
+                                              ) [DesignatorExpr]
+                                            ) [DesignatorExpress]
+                                          ) [DesignatorStatementStatement]
+                                        ) [StmList]
+                                        PrintStatement(
+                                          Expr(
+                                            OneAddopTerm(
+                                              Term(
+                                                OneMulopFactor(
+                                                  FactorDesignator(
+                                                    IdentOrExprL(
+                                                      NoIdentOrExprList(
+                                                       niz
+                                                      ) [NoIdentOrExprList]
+                                                      IdentOrExprExpr(
+                                                        Expr(
+                                                          OneAddopTerm(
+                                                            Term(
+                                                              OneMulopFactor(
+                                                                FactorDesignator(
+                                                                  NoIdentOrExprList(
+                                                                   nula
+                                                                  ) [NoIdentOrExprList]
+                                                                  NoFunc(
+                                                                  ) [NoFunc]
+                                                                ) [FactorDesignator]
+                                                              ) [OneMulopFactor]
+                                                            ) [Term]
+                                                          ) [OneAddopTerm]
+                                                        ) [Expr]
+                                                      ) [IdentOrExprExpr]
+                                                    ) [IdentOrExprL]
+                                                    NoFunc(
+                                                    ) [NoFunc]
+                                                  ) [FactorDesignator]
+                                                ) [OneMulopFactor]
+                                              ) [Term]
+                                            ) [OneAddopTerm]
+                                          ) [Expr]
+                                          NoWide(
+                                          ) [NoWide]
+                                        ) [PrintStatement]
+                                      ) [StmList]
+                                      DesignatorStatementStatement(
+                                        DesignatorExpress(
+                                          IdentOrExprL(
+                                            NoIdentOrExprList(
+                                             niz
+                                            ) [NoIdentOrExprList]
+                                            IdentOrExprExpr(
+                                              Expr(
+                                                OneAddopTerm(
+                                                  Term(
+                                                    OneMulopFactor(
+                                                      FactorNumConst(
+                                                       1
+                                                      ) [FactorNumConst]
+                                                    ) [OneMulopFactor]
+                                                  ) [Term]
+                                                ) [OneAddopTerm]
+                                              ) [Expr]
+                                            ) [IdentOrExprExpr]
+                                          ) [IdentOrExprL]
+                                          AssignOp(
+                                          ) [AssignOp]
+                                          DesignatorExpr(
+                                            Expr(
+                                              OneAddopTerm(
+                                                Term(
+                                                  OneMulopFactor(
+                                                    FactorNumConst(
+                                                     2
+                                                    ) [FactorNumConst]
+                                                  ) [OneMulopFactor]
+                                                ) [Term]
+                                              ) [OneAddopTerm]
+                                            ) [Expr]
+                                          ) [DesignatorExpr]
+                                        ) [DesignatorExpress]
+                                      ) [DesignatorStatementStatement]
+                                    ) [StmList]
+                                    PrintStatement(
+                                      Expr(
+                                        OneAddopTerm(
+                                          Term(
+                                            OneMulopFactor(
+                                              FactorDesignator(
+                                                IdentOrExprL(
+                                                  NoIdentOrExprList(
+                                                   niz
+                                                  ) [NoIdentOrExprList]
+                                                  IdentOrExprExpr(
+                                                    Expr(
+                                                      OneAddopTerm(
+                                                        Term(
+                                                          OneMulopFactor(
+                                                            FactorNumConst(
+                                                             1
+                                                            ) [FactorNumConst]
+                                                          ) [OneMulopFactor]
+                                                        ) [Term]
+                                                      ) [OneAddopTerm]
+                                                    ) [Expr]
+                                                  ) [IdentOrExprExpr]
+                                                ) [IdentOrExprL]
+                                                NoFunc(
+                                                ) [NoFunc]
+                                              ) [FactorDesignator]
+                                            ) [OneMulopFactor]
+                                          ) [Term]
+                                        ) [OneAddopTerm]
+                                      ) [Expr]
+                                      NoWide(
+                                      ) [NoWide]
+                                    ) [PrintStatement]
+                                  ) [StmList]
+                                  DesignatorStatementStatement(
+                                    DesignatorExpress(
+                                      IdentOrExprL(
+                                        NoIdentOrExprList(
+                                         niz
+                                        ) [NoIdentOrExprList]
+                                        IdentOrExprExpr(
+                                          Expr(
+                                            OneAddopTerm(
+                                              Term(
+                                                OneMulopFactor(
+                                                  FactorDesignator(
+                                                    IdentOrExprL(
+                                                      NoIdentOrExprList(
+                                                       niz
+                                                      ) [NoIdentOrExprList]
+                                                      IdentOrExprExpr(
+                                                        Expr(
+                                                          OneAddopTerm(
+                                                            Term(
+                                                              OneMulopFactor(
+                                                                FactorDesignator(
+                                                                  NoIdentOrExprList(
+                                                                   jedan
+                                                                  ) [NoIdentOrExprList]
+                                                                  NoFunc(
+                                                                  ) [NoFunc]
+                                                                ) [FactorDesignator]
+                                                              ) [OneMulopFactor]
+                                                            ) [Term]
+                                                          ) [OneAddopTerm]
+                                                        ) [Expr]
+                                                      ) [IdentOrExprExpr]
+                                                    ) [IdentOrExprL]
+                                                    NoFunc(
+                                                    ) [NoFunc]
+                                                  ) [FactorDesignator]
+                                                ) [OneMulopFactor]
+                                              ) [Term]
+                                            ) [OneAddopTerm]
+                                          ) [Expr]
+                                        ) [IdentOrExprExpr]
+                                      ) [IdentOrExprL]
+                                      AssignOp(
+                                      ) [AssignOp]
+                                      DesignatorExpr(
+                                        Expr(
+                                          OneAddopTerm(
+                                            Term(
+                                              MulopFactL(
+                                                OneMulopFactor(
+                                                  FactorDesignator(
+                                                    IdentOrExprL(
+                                                      NoIdentOrExprList(
+                                                       niz
+                                                      ) [NoIdentOrExprList]
+                                                      IdentOrExprExpr(
+                                                        Expr(
+                                                          OneAddopTerm(
+                                                            Term(
+                                                              OneMulopFactor(
+                                                                FactorDesignator(
+                                                                  IdentOrExprL(
+                                                                    NoIdentOrExprList(
+                                                                     niz
+                                                                    ) [NoIdentOrExprList]
+                                                                    IdentOrExprExpr(
+                                                                      Expr(
+                                                                        OneAddopTerm(
+                                                                          Term(
+                                                                            OneMulopFactor(
+                                                                              FactorNumConst(
+                                                                               0
+                                                                              ) [FactorNumConst]
+                                                                            ) [OneMulopFactor]
+                                                                          ) [Term]
+                                                                        ) [OneAddopTerm]
+                                                                      ) [Expr]
+                                                                    ) [IdentOrExprExpr]
+                                                                  ) [IdentOrExprL]
+                                                                  NoFunc(
+                                                                  ) [NoFunc]
+                                                                ) [FactorDesignator]
+                                                              ) [OneMulopFactor]
+                                                            ) [Term]
+                                                          ) [OneAddopTerm]
+                                                        ) [Expr]
+                                                      ) [IdentOrExprExpr]
+                                                    ) [IdentOrExprL]
+                                                    NoFunc(
+                                                    ) [NoFunc]
+                                                  ) [FactorDesignator]
+                                                ) [OneMulopFactor]
+                                                MulopFactor(
+                                                  MulopMul(
+                                                  ) [MulopMul]
+                                                  FactorNumConst(
+                                                   3
+                                                  ) [FactorNumConst]
+                                                ) [MulopFactor]
+                                              ) [MulopFactL]
+                                            ) [Term]
+                                          ) [OneAddopTerm]
+                                        ) [Expr]
+                                      ) [DesignatorExpr]
+                                    ) [DesignatorExpress]
+                                  ) [DesignatorStatementStatement]
+                                ) [StmList]
+                                DesignatorStatementStatement(
+                                  DesignatorExpress(
+                                    NoIdentOrExprList(
+                                     bodovi
+                                    ) [NoIdentOrExprList]
+                                    AssignOp(
+                                    ) [AssignOp]
+                                    DesignatorExpr(
+                                      Expr(
+                                        OneAddopTerm(
+                                          Term(
+                                            MulopFactL(
+                                              OneMulopFactor(
+                                                FactorDesignator(
+                                                  IdentOrExprL(
+                                                    NoIdentOrExprList(
+                                                     niz
+                                                    ) [NoIdentOrExprList]
+                                                    IdentOrExprExpr(
+                                                      Expr(
+                                                        OneAddopTerm(
+                                                          Term(
+                                                            OneMulopFactor(
+                                                              FactorNumConst(
+                                                               2
+                                                              ) [FactorNumConst]
+                                                            ) [OneMulopFactor]
+                                                          ) [Term]
+                                                        ) [OneAddopTerm]
+                                                      ) [Expr]
+                                                    ) [IdentOrExprExpr]
+                                                  ) [IdentOrExprL]
+                                                  NoFunc(
+                                                  ) [NoFunc]
+                                                ) [FactorDesignator]
+                                              ) [OneMulopFactor]
+                                              MulopFactor(
+                                                MulopDiv(
+                                                ) [MulopDiv]
+                                                FactorDesignator(
+                                                  IdentOrExprL(
+                                                    NoIdentOrExprList(
+                                                     niz
+                                                    ) [NoIdentOrExprList]
+                                                    IdentOrExprExpr(
+                                                      Expr(
+                                                        OneAddopTerm(
+                                                          Term(
+                                                            OneMulopFactor(
+                                                              FactorNumConst(
+                                                               0
+                                                              ) [FactorNumConst]
+                                                            ) [OneMulopFactor]
+                                                          ) [Term]
+                                                        ) [OneAddopTerm]
+                                                      ) [Expr]
+                                                    ) [IdentOrExprExpr]
+                                                  ) [IdentOrExprL]
+                                                  NoFunc(
+                                                  ) [NoFunc]
+                                                ) [FactorDesignator]
+                                              ) [MulopFactor]
+                                            ) [MulopFactL]
+                                          ) [Term]
+                                        ) [OneAddopTerm]
+                                      ) [Expr]
+                                    ) [DesignatorExpr]
+                                  ) [DesignatorExpress]
+                                ) [DesignatorStatementStatement]
+                              ) [StmList]
+                              PrintStatement(
+                                Expr(
+                                  OneAddopTerm(
+                                    Term(
+                                      OneMulopFactor(
+                                        FactorDesignator(
+                                          NoIdentOrExprList(
+                                           bodovi
+                                          ) [NoIdentOrExprList]
+                                          NoFunc(
+                                          ) [NoFunc]
+                                        ) [FactorDesignator]
+                                      ) [OneMulopFactor]
+                                    ) [Term]
+                                  ) [OneAddopTerm]
+                                ) [Expr]
+                                NoWide(
+                                ) [NoWide]
+                              ) [PrintStatement]
+                            ) [StmList]
+                            PrintStatement(
+                              Expr(
+                                OneAddopTerm(
+                                  Term(
+                                    OneMulopFactor(
+                                      FactorDesignator(
+                                        IdentOrExprL(
+                                          NoIdentOrExprList(
+                                           niz
+                                          ) [NoIdentOrExprList]
+                                          IdentOrExprExpr(
+                                            Expr(
+                                              OneAddopTerm(
+                                                Term(
+                                                  OneMulopFactor(
+                                                    FactorNumConst(
+                                                     2
+                                                    ) [FactorNumConst]
+                                                  ) [OneMulopFactor]
+                                                ) [Term]
+                                              ) [OneAddopTerm]
+                                            ) [Expr]
+                                          ) [IdentOrExprExpr]
+                                        ) [IdentOrExprL]
+                                        NoFunc(
+                                        ) [NoFunc]
+                                      ) [FactorDesignator]
+                                    ) [OneMulopFactor]
+                                  ) [Term]
+                                ) [OneAddopTerm]
+                              ) [Expr]
+                              NoWide(
+                              ) [NoWide]
+                            ) [PrintStatement]
+                          ) [StmList]
+                          FindAnyStatement(
+                            NoIdentOrExprList(
+                             br
+                            ) [NoIdentOrExprList]
+                            AssignOp(
+                            ) [AssignOp]
+                            NoIdentOrExprList(
+                             niz
+                            ) [NoIdentOrExprList]
+                            Expr(
+                              AddopTerminalList(
+                                OneAddopTerm(
+                                  Term(
+                                    OneMulopFactor(
+                                      FactorDesignator(
+                                        NoIdentOrExprList(
+                                         jedan
+                                        ) [NoIdentOrExprList]
+                                        NoFunc(
+                                        ) [NoFunc]
+                                      ) [FactorDesignator]
+                                    ) [OneMulopFactor]
+                                  ) [Term]
+                                ) [OneAddopTerm]
+                                AddopTerm(
+                                  AddopPlus(
+                                   +
+                                  ) [AddopPlus]
+                                  Term(
+                                    OneMulopFactor(
+                                      FactorDesignator(
+                                        NoIdentOrExprList(
+                                         pet
+                                        ) [NoIdentOrExprList]
+                                        NoFunc(
+                                        ) [NoFunc]
+                                      ) [FactorDesignator]
+                                    ) [OneMulopFactor]
+                                  ) [Term]
+                                ) [AddopTerm]
+                              ) [AddopTerminalList]
+                            ) [Expr]
+                          ) [FindAnyStatement]
+                        ) [StmList]
+                        PrintStatement(
+                          Expr(
+                            OneAddopTerm(
+                              Term(
+                                OneMulopFactor(
+                                  FactorDesignator(
+                                    NoIdentOrExprList(
+                                     br
+                                    ) [NoIdentOrExprList]
+                                    NoFunc(
+                                    ) [NoFunc]
+                                  ) [FactorDesignator]
+                                ) [OneMulopFactor]
+                              ) [Term]
+                            ) [OneAddopTerm]
+                          ) [Expr]
+                          NoWide(
+                          ) [NoWide]
+                        ) [PrintStatement]
+                      ) [StmList]
+                      DesignatorStatementStatement(
+                        DesignatorExpress(
+                          NoIdentOrExprList(
+                           nizch
+                          ) [NoIdentOrExprList]
+                          AssignOp(
+                          ) [AssignOp]
+                          DesignatorExpr(
+                            Expr(
+                              OneAddopTerm(
+                                Term(
+                                  OneMulopFactor(
+                                    FactorNew(
+                                      Type(
+                                       char
+                                      ) [Type]
+                                      NewTypeExpr(
+                                        Expr(
+                                          OneAddopTerm(
+                                            Term(
+                                              OneMulopFactor(
+                                                FactorNumConst(
+                                                 3
+                                                ) [FactorNumConst]
+                                              ) [OneMulopFactor]
+                                            ) [Term]
+                                          ) [OneAddopTerm]
+                                        ) [Expr]
+                                      ) [NewTypeExpr]
+                                    ) [FactorNew]
+                                  ) [OneMulopFactor]
+                                ) [Term]
+                              ) [OneAddopTerm]
+                            ) [Expr]
+                          ) [DesignatorExpr]
+                        ) [DesignatorExpress]
+                      ) [DesignatorStatementStatement]
+                    ) [StmList]
+                    DesignatorStatementStatement(
+                      DesignatorExpress(
+                        IdentOrExprL(
+                          NoIdentOrExprList(
+                           nizch
+                          ) [NoIdentOrExprList]
+                          IdentOrExprExpr(
+                            Expr(
+                              OneAddopTerm(
+                                Term(
+                                  OneMulopFactor(
+                                    FactorNumConst(
+                                     0
+                                    ) [FactorNumConst]
+                                  ) [OneMulopFactor]
+                                ) [Term]
+                              ) [OneAddopTerm]
+                            ) [Expr]
+                          ) [IdentOrExprExpr]
+                        ) [IdentOrExprL]
+                        AssignOp(
+                        ) [AssignOp]
+                        DesignatorExpr(
+                          Expr(
+                            OneAddopTerm(
+                              Term(
+                                OneMulopFactor(
+                                  FactorCharConst(
+                                   a
+                                  ) [FactorCharConst]
+                                ) [OneMulopFactor]
+                              ) [Term]
+                            ) [OneAddopTerm]
+                          ) [Expr]
+                        ) [DesignatorExpr]
+                      ) [DesignatorExpress]
+                    ) [DesignatorStatementStatement]
+                  ) [StmList]
+                  DesignatorStatementStatement(
+                    DesignatorExpress(
+                      IdentOrExprL(
+                        NoIdentOrExprList(
+                         nizch
+                        ) [NoIdentOrExprList]
+                        IdentOrExprExpr(
+                          Expr(
+                            OneAddopTerm(
+                              Term(
+                                OneMulopFactor(
+                                  FactorDesignator(
+                                    NoIdentOrExprList(
+                                     jedan
+                                    ) [NoIdentOrExprList]
+                                    NoFunc(
+                                    ) [NoFunc]
+                                  ) [FactorDesignator]
+                                ) [OneMulopFactor]
+                              ) [Term]
+                            ) [OneAddopTerm]
+                          ) [Expr]
+                        ) [IdentOrExprExpr]
+                      ) [IdentOrExprL]
+                      AssignOp(
+                      ) [AssignOp]
+                      DesignatorExpr(
+                        Expr(
+                          OneAddopTerm(
+                            Term(
+                              OneMulopFactor(
+                                FactorCharConst(
+                                 b
+                                ) [FactorCharConst]
+                              ) [OneMulopFactor]
+                            ) [Term]
+                          ) [OneAddopTerm]
+                        ) [Expr]
+                      ) [DesignatorExpr]
+                    ) [DesignatorExpress]
+                  ) [DesignatorStatementStatement]
+                ) [StmList]
+                DesignatorStatementStatement(
+                  DesignatorExpress(
+                    IdentOrExprL(
+                      NoIdentOrExprList(
+                       nizch
+                      ) [NoIdentOrExprList]
+                      IdentOrExprExpr(
+                        Expr(
+                          AddopTerminalList(
+                            OneAddopTerm(
+                              Term(
+                                OneMulopFactor(
+                                  FactorDesignator(
+                                    NoIdentOrExprList(
+                                     pet
+                                    ) [NoIdentOrExprList]
+                                    NoFunc(
+                                    ) [NoFunc]
+                                  ) [FactorDesignator]
+                                ) [OneMulopFactor]
+                              ) [Term]
+                            ) [OneAddopTerm]
+                            AddopTerm(
+                              AddopMinus(
+                               -
+                              ) [AddopMinus]
+                              Term(
+                                OneMulopFactor(
+                                  FactorNumConst(
+                                   3
+                                  ) [FactorNumConst]
+                                ) [OneMulopFactor]
+                              ) [Term]
+                            ) [AddopTerm]
+                          ) [AddopTerminalList]
+                        ) [Expr]
+                      ) [IdentOrExprExpr]
+                    ) [IdentOrExprL]
+                    AssignOp(
+                    ) [AssignOp]
+                    DesignatorExpr(
+                      Expr(
+                        OneAddopTerm(
+                          Term(
+                            OneMulopFactor(
+                              FactorCharConst(
+                               c
+                              ) [FactorCharConst]
+                            ) [OneMulopFactor]
+                          ) [Term]
+                        ) [OneAddopTerm]
+                      ) [Expr]
+                    ) [DesignatorExpr]
+                  ) [DesignatorExpress]
+                ) [DesignatorStatementStatement]
+              ) [StmList]
+              PrintStatement(
+                Expr(
+                  OneAddopTerm(
+                    Term(
+                      OneMulopFactor(
+                        FactorDesignator(
+                          IdentOrExprL(
+                            NoIdentOrExprList(
+                             nizch
+                            ) [NoIdentOrExprList]
+                            IdentOrExprExpr(
+                              Expr(
+                                OneAddopTerm(
+                                  Term(
+                                    OneMulopFactor(
+                                      FactorNumConst(
+                                       1
+                                      ) [FactorNumConst]
+                                    ) [OneMulopFactor]
+                                  ) [Term]
+                                ) [OneAddopTerm]
+                              ) [Expr]
+                            ) [IdentOrExprExpr]
+                          ) [IdentOrExprL]
+                          NoFunc(
+                          ) [NoFunc]
+                        ) [FactorDesignator]
+                      ) [OneMulopFactor]
+                    ) [Term]
+                  ) [OneAddopTerm]
+                ) [Expr]
+                NoWide(
+                ) [NoWide]
+              ) [PrintStatement]
+            ) [StmList]
+            PrintStatement(
+              Expr(
+                OneAddopTerm(
+                  Term(
+                    OneMulopFactor(
+                      FactorDesignator(
+                        IdentOrExprL(
+                          NoIdentOrExprList(
+                           nizch
+                          ) [NoIdentOrExprList]
+                          IdentOrExprExpr(
+                            Expr(
+                              OneAddopTerm(
+                                Term(
+                                  MulopFactL(
+                                    OneMulopFactor(
+                                      FactorDesignator(
+                                        NoIdentOrExprList(
+                                         jedan
+                                        ) [NoIdentOrExprList]
+                                        NoFunc(
+                                        ) [NoFunc]
+                                      ) [FactorDesignator]
+                                    ) [OneMulopFactor]
+                                    MulopFactor(
+                                      MulopMul(
+                                      ) [MulopMul]
+                                      FactorNumConst(
+                                       2
+                                      ) [FactorNumConst]
+                                    ) [MulopFactor]
+                                  ) [MulopFactL]
+                                ) [Term]
+                              ) [OneAddopTerm]
+                            ) [Expr]
+                          ) [IdentOrExprExpr]
+                        ) [IdentOrExprL]
+                        NoFunc(
+                        ) [NoFunc]
+                      ) [FactorDesignator]
+                    ) [OneMulopFactor]
+                  ) [Term]
+                ) [OneAddopTerm]
+              ) [Expr]
+              NoWide(
+              ) [NoWide]
+            ) [PrintStatement]
+          ) [StmList]
+          DesignatorStatementStatement(
+            DesignatorExpress(
+              NoIdentOrExprList(
+               bodovi
+              ) [NoIdentOrExprList]
+              AssignOp(
+              ) [AssignOp]
+              DesignatorExpr(
+                Expr(
+                  AddopTerminalList(
+                    AddopTerminalList(
+                      OneNegativeAddopTerm(
+                       -
+                        Term(
+                          OneMulopFactor(
+                            FactorDesignator(
+                              NoIdentOrExprList(
+                               bodovi
+                              ) [NoIdentOrExprList]
+                              NoFunc(
+                              ) [NoFunc]
+                            ) [FactorDesignator]
+                          ) [OneMulopFactor]
+                        ) [Term]
+                      ) [OneNegativeAddopTerm]
+                      AddopTerm(
+                        AddopPlus(
+                         +
+                        ) [AddopPlus]
+                        Term(
+                          MulopFactL(
+                            OneMulopFactor(
+                              FactorExpr(
+                                Expr(
+                                  AddopTerminalList(
+                                    OneAddopTerm(
+                                      Term(
+                                        MulopFactL(
+                                          MulopFactL(
+                                            OneMulopFactor(
+                                              FactorDesignator(
+                                                NoIdentOrExprList(
+                                                 pet
+                                                ) [NoIdentOrExprList]
+                                                NoFunc(
+                                                ) [NoFunc]
+                                              ) [FactorDesignator]
+                                            ) [OneMulopFactor]
+                                            MulopFactor(
+                                              MulopMul(
+                                              ) [MulopMul]
+                                              FactorDesignator(
+                                                NoIdentOrExprList(
+                                                 a
+                                                ) [NoIdentOrExprList]
+                                                NoFunc(
+                                                ) [NoFunc]
+                                              ) [FactorDesignator]
+                                            ) [MulopFactor]
+                                          ) [MulopFactL]
+                                          MulopFactor(
+                                            MulopDiv(
+                                            ) [MulopDiv]
+                                            FactorNumConst(
+                                             2
+                                            ) [FactorNumConst]
+                                          ) [MulopFactor]
+                                        ) [MulopFactL]
+                                      ) [Term]
+                                    ) [OneAddopTerm]
+                                    AddopTerm(
+                                      AddopMinus(
+                                       -
+                                      ) [AddopMinus]
+                                      Term(
+                                        OneMulopFactor(
+                                          FactorDesignator(
+                                            NoIdentOrExprList(
+                                             jedan
+                                            ) [NoIdentOrExprList]
+                                            NoFunc(
+                                            ) [NoFunc]
+                                          ) [FactorDesignator]
+                                        ) [OneMulopFactor]
+                                      ) [Term]
+                                    ) [AddopTerm]
+                                  ) [AddopTerminalList]
+                                ) [Expr]
+                              ) [FactorExpr]
+                            ) [OneMulopFactor]
+                            MulopFactor(
+                              MulopMul(
+                              ) [MulopMul]
+                              FactorDesignator(
+                                NoIdentOrExprList(
+                                 bodovi
+                                ) [NoIdentOrExprList]
+                                NoFunc(
+                                ) [NoFunc]
+                              ) [FactorDesignator]
+                            ) [MulopFactor]
+                          ) [MulopFactL]
+                        ) [Term]
+                      ) [AddopTerm]
+                    ) [AddopTerminalList]
+                    AddopTerm(
+                      AddopMinus(
+                       -
+                      ) [AddopMinus]
+                      Term(
+                        OneMulopFactor(
+                          FactorExpr(
+                            Expr(
+                              AddopTerminalList(
+                                AddopTerminalList(
+                                  OneAddopTerm(
+                                    Term(
+                                      MulopFactL(
+                                        OneMulopFactor(
+                                          FactorNumConst(
+                                           3
+                                          ) [FactorNumConst]
+                                        ) [OneMulopFactor]
+                                        MulopFactor(
+                                          MulopPercent(
+                                          ) [MulopPercent]
+                                          FactorNumConst(
+                                           2
+                                          ) [FactorNumConst]
+                                        ) [MulopFactor]
+                                      ) [MulopFactL]
+                                    ) [Term]
+                                  ) [OneAddopTerm]
+                                  AddopTerm(
+                                    AddopPlus(
+                                     +
+                                    ) [AddopPlus]
+                                    Term(
+                                      MulopFactL(
+                                        OneMulopFactor(
+                                          FactorNumConst(
+                                           3
+                                          ) [FactorNumConst]
+                                        ) [OneMulopFactor]
+                                        MulopFactor(
+                                          MulopMul(
+                                          ) [MulopMul]
+                                          FactorNumConst(
+                                           2
+                                          ) [FactorNumConst]
+                                        ) [MulopFactor]
+                                      ) [MulopFactL]
+                                    ) [Term]
+                                  ) [AddopTerm]
+                                ) [AddopTerminalList]
+                                AddopTerm(
+                                  AddopMinus(
+                                   -
+                                  ) [AddopMinus]
+                                  Term(
+                                    OneMulopFactor(
+                                      FactorNumConst(
+                                       3
+                                      ) [FactorNumConst]
+                                    ) [OneMulopFactor]
+                                  ) [Term]
+                                ) [AddopTerm]
+                              ) [AddopTerminalList]
+                            ) [Expr]
+                          ) [FactorExpr]
+                        ) [OneMulopFactor]
+                      ) [Term]
+                    ) [AddopTerm]
+                  ) [AddopTerminalList]
+                ) [Expr]
+              ) [DesignatorExpr]
+            ) [DesignatorExpress]
+          ) [DesignatorStatementStatement]
+        ) [StmList]
+        PrintStatement(
+          Expr(
+            OneAddopTerm(
+              Term(
+                OneMulopFactor(
+                  FactorDesignator(
+                    NoIdentOrExprList(
+                     bodovi
+                    ) [NoIdentOrExprList]
+                    NoFunc(
+                    ) [NoFunc]
+                  ) [FactorDesignator]
+                ) [OneMulopFactor]
+              ) [Term]
+            ) [OneAddopTerm]
+          ) [Expr]
+          NoWide(
+          ) [NoWide]
+        ) [PrintStatement]
+      ) [StmList]
+    ) [MethodDecl]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  02:09:16,037 - ===================================
+INFO  02:09:16,042 - Postavljeno je ime varijable na niz na liniji 9
+INFO  02:09:16,042 - Dodata je globalna varijabla niz 3 na liniji 9
+INFO  02:09:16,042 - Postavljeno je ime varijable na niz2 na liniji 9
+INFO  02:09:16,042 - Dodata je globalna varijabla niz2 3 na liniji 9
+INFO  02:09:16,042 - Postavljeno je ime varijable na a na liniji 9
+INFO  02:09:16,042 - Dodata je globalna varijabla a 1 na liniji 9
+INFO  02:09:16,042 - Postavljeno je ime varijable na b na liniji 9
+INFO  02:09:16,043 - Dodata je globalna varijabla b 1 na liniji 9
+INFO  02:09:16,043 - Postavljeno je ime varijable na nizch na liniji 10
+INFO  02:09:16,043 - Dodata je globalna varijabla nizch 3 na liniji 10
+INFO  02:09:16,043 - Dodat je metod main 0 na liniji 13
+INFO  02:09:16,043 - Postavljeno je ime varijable na bodovi na liniji 14
+INFO  02:09:16,043 - Dodata je lokalna varijabla bodovi 1 na liniji 14
+INFO  02:09:16,043 - Postavljeno je ime varijable na br na liniji 15
+INFO  02:09:16,043 - Dodata je lokalna varijabla br 5 na liniji 15
+INFO  02:09:16,043 - Pronadjeno je bodovi 0 na liniji 17
+INFO  02:09:16,043 - Prvi deo designatora bodovi na liniji 17
+INFO  02:09:16,043 - Postavljen mulop factor tip 1 na liniji 17
+INFO  02:09:16,043 - Designator express na liniji 17
+INFO  02:09:16,043 - Pronadjeno je bodovi 0 na liniji 18
+INFO  02:09:16,043 - Prvi deo designatora bodovi na liniji 18
+INFO  02:09:16,043 - Pronadjeno je bodovi 0 na liniji 19
+INFO  02:09:16,043 - Prvi deo designatora bodovi na liniji 19
+INFO  02:09:16,043 - Pronadjeno je bodovi 0 na liniji 19
+INFO  02:09:16,043 - Prvi deo designatora bodovi na liniji 19
+INFO  02:09:16,043 - Postavljen factor designator bodovi na liniji 19
+INFO  02:09:16,043 - Postavljen mulop factor tip 1 na liniji 19
+INFO  02:09:16,044 - Pronadjeno je jedan 1 na liniji 19
+INFO  02:09:16,044 - Prvi deo designatora jedan na liniji 19
+INFO  02:09:16,044 - Postavljen factor designator jedan na liniji 19
+INFO  02:09:16,044 - Postavljen mulop factor tip 1 na liniji 19
+INFO  02:09:16,044 - OVO + na liniji 19
+INFO  02:09:16,044 - Designator express na liniji 19
+INFO  02:09:16,044 - Pronadjeno je bodovi 0 na liniji 20
+INFO  02:09:16,044 - Prvi deo designatora bodovi na liniji 20
+INFO  02:09:16,044 - Pronadjeno je bodovi 0 na liniji 20
+INFO  02:09:16,044 - Prvi deo designatora bodovi na liniji 20
+INFO  02:09:16,044 - Postavljen factor designator bodovi na liniji 20
+INFO  02:09:16,044 - Postavljen mulop factor tip 1 na liniji 20
+INFO  02:09:16,044 - Pronadjeno je pet 5 na liniji 20
+INFO  02:09:16,044 - Prvi deo designatora pet na liniji 20
+INFO  02:09:16,044 - Postavljen factor designator pet na liniji 20
+INFO  02:09:16,044 - MulopFactL tip 1 na liniji 20
+INFO  02:09:16,044 - Designator express na liniji 20
+INFO  02:09:16,044 - Pronadjeno je bodovi 0 na liniji 21
+INFO  02:09:16,044 - Prvi deo designatora bodovi na liniji 21
+INFO  02:09:16,044 - Pronadjeno je bodovi 0 na liniji 22
+INFO  02:09:16,044 - Prvi deo designatora bodovi na liniji 22
+INFO  02:09:16,044 - Postavljen factor designator bodovi na liniji 22
+INFO  02:09:16,044 - Postavljen mulop factor tip 1 na liniji 22
+INFO  02:09:16,044 - Print na liniji 22
+INFO  02:09:16,044 - Pronadjeno je niz 0 na liniji 25
+INFO  02:09:16,044 - Prvi deo designatora niz na liniji 25
+INFO  02:09:16,044 - Postavljen mulop factor tip 1 na liniji 25
+INFO  02:09:16,045 - New na liniji 25
+INFO  02:09:16,045 - Postavljen mulop factor tip 1 na liniji 25
+INFO  02:09:16,045 - Designator express na liniji 25
+INFO  02:09:16,045 - Pronadjeno je niz 0 na liniji 26
+INFO  02:09:16,045 - Prvi deo designatora niz na liniji 26
+INFO  02:09:16,045 - Pronadjeno je nula 0 na liniji 26
+INFO  02:09:16,045 - Prvi deo designatora nula na liniji 26
+INFO  02:09:16,045 - Postavljen factor designator nula na liniji 26
+INFO  02:09:16,045 - Postavljen mulop factor tip 1 na liniji 26
+INFO  02:09:16,045 - Deo designatora 3 na liniji 26
+INFO  02:09:16,045 - Pronadjeno je jedan 1 na liniji 26
+INFO  02:09:16,045 - Prvi deo designatora jedan na liniji 26
+INFO  02:09:16,045 - Postavljen factor designator jedan na liniji 26
+INFO  02:09:16,045 - Postavljen mulop factor tip 1 na liniji 26
+INFO  02:09:16,045 - Designator express na liniji 26
+INFO  02:09:16,045 - Pronadjeno je niz 0 na liniji 27
+INFO  02:09:16,045 - Prvi deo designatora niz na liniji 27
+INFO  02:09:16,045 - Pronadjeno je nula 0 na liniji 27
+INFO  02:09:16,045 - Prvi deo designatora nula na liniji 27
+INFO  02:09:16,045 - Postavljen factor designator nula na liniji 27
+INFO  02:09:16,045 - Postavljen mulop factor tip 1 na liniji 27
+INFO  02:09:16,045 - Deo designatora 3 na liniji 27
+INFO  02:09:16,045 - Postavljen factor designator   na liniji 27
+INFO  02:09:16,045 - Postavljen mulop factor tip 1 na liniji 27
+INFO  02:09:16,045 - Print na liniji 27
+INFO  02:09:16,045 - Pronadjeno je niz 0 na liniji 28
+INFO  02:09:16,046 - Prvi deo designatora niz na liniji 28
+INFO  02:09:16,046 - Postavljen mulop factor tip 1 na liniji 28
+INFO  02:09:16,046 - Deo designatora 3 na liniji 28
+INFO  02:09:16,046 - Postavljen mulop factor tip 1 na liniji 28
+INFO  02:09:16,046 - Designator express na liniji 28
+INFO  02:09:16,046 - Pronadjeno je niz 0 na liniji 29
+INFO  02:09:16,046 - Prvi deo designatora niz na liniji 29
+INFO  02:09:16,046 - Postavljen mulop factor tip 1 na liniji 29
+INFO  02:09:16,046 - Deo designatora 3 na liniji 29
+INFO  02:09:16,046 - Postavljen factor designator   na liniji 29
+INFO  02:09:16,046 - Postavljen mulop factor tip 3 na liniji 29
+INFO  02:09:16,046 - Print na liniji 29
+INFO  02:09:16,046 - Pronadjeno je niz 0 na liniji 30
+INFO  02:09:16,046 - Prvi deo designatora niz na liniji 30
+INFO  02:09:16,046 - Pronadjeno je niz 0 na liniji 30
+INFO  02:09:16,046 - Prvi deo designatora niz na liniji 30
+INFO  02:09:16,046 - Pronadjeno je jedan 1 na liniji 30
+INFO  02:09:16,046 - Prvi deo designatora jedan na liniji 30
+INFO  02:09:16,046 - Postavljen factor designator jedan na liniji 30
+INFO  02:09:16,046 - Postavljen mulop factor tip 1 na liniji 30
+INFO  02:09:16,046 - Deo designatora 3 na liniji 30
+INFO  02:09:16,046 - Postavljen factor designator   na liniji 30
+INFO  02:09:16,046 - Postavljen mulop factor tip 1 na liniji 30
+INFO  02:09:16,046 - Deo designatora 3 na liniji 30
+INFO  02:09:16,046 - Pronadjeno je niz 0 na liniji 30
+INFO  02:09:16,046 - Prvi deo designatora niz na liniji 30
+INFO  02:09:16,046 - Pronadjeno je niz 0 na liniji 30
+INFO  02:09:16,046 - Prvi deo designatora niz na liniji 30
+INFO  02:09:16,046 - Postavljen mulop factor tip 1 na liniji 30
+INFO  02:09:16,046 - Deo designatora 3 na liniji 30
+INFO  02:09:16,046 - Postavljen factor designator   na liniji 30
+INFO  02:09:16,046 - Postavljen mulop factor tip 3 na liniji 30
+INFO  02:09:16,046 - Deo designatora 3 na liniji 30
+INFO  02:09:16,046 - Postavljen factor designator   na liniji 30
+INFO  02:09:16,046 - Postavljen mulop factor tip 3 na liniji 30
+INFO  02:09:16,046 - MulopFactL tip 1 na liniji 30
+INFO  02:09:16,046 - Designator express na liniji 30
+INFO  02:09:16,046 - Pronadjeno je bodovi 0 na liniji 31
+INFO  02:09:16,047 - Prvi deo designatora bodovi na liniji 31
+INFO  02:09:16,047 - Pronadjeno je niz 0 na liniji 31
+INFO  02:09:16,047 - Prvi deo designatora niz na liniji 31
+INFO  02:09:16,047 - Postavljen mulop factor tip 1 na liniji 31
+INFO  02:09:16,047 - Deo designatora 3 na liniji 31
+INFO  02:09:16,047 - Postavljen factor designator   na liniji 31
+INFO  02:09:16,047 - Postavljen mulop factor tip 3 na liniji 31
+INFO  02:09:16,047 - Pronadjeno je niz 0 na liniji 31
+INFO  02:09:16,047 - Prvi deo designatora niz na liniji 31
+INFO  02:09:16,047 - Postavljen mulop factor tip 1 na liniji 31
+INFO  02:09:16,047 - Deo designatora 3 na liniji 31
+INFO  02:09:16,047 - Postavljen factor designator   na liniji 31
+INFO  02:09:16,047 - MulopFactL tip 1 na liniji 31
+INFO  02:09:16,047 - Designator express na liniji 31
+INFO  02:09:16,047 - Pronadjeno je bodovi 0 na liniji 32
+INFO  02:09:16,047 - Prvi deo designatora bodovi na liniji 32
+INFO  02:09:16,047 - Postavljen factor designator bodovi na liniji 32
+INFO  02:09:16,047 - Postavljen mulop factor tip 1 na liniji 32
+INFO  02:09:16,047 - Print na liniji 32
+INFO  02:09:16,047 - Pronadjeno je niz 0 na liniji 33
+INFO  02:09:16,047 - Prvi deo designatora niz na liniji 33
+INFO  02:09:16,047 - Postavljen mulop factor tip 1 na liniji 33
+INFO  02:09:16,047 - Deo designatora 3 na liniji 33
+INFO  02:09:16,047 - Postavljen factor designator   na liniji 33
+INFO  02:09:16,047 - Postavljen mulop factor tip 3 na liniji 33
+INFO  02:09:16,047 - Print na liniji 33
+INFO  02:09:16,047 - Pronadjeno je br 1 na liniji 35
+INFO  02:09:16,047 - Prvi deo designatora br na liniji 35
+INFO  02:09:16,047 - Pronadjeno je niz 0 na liniji 35
+INFO  02:09:16,047 - Prvi deo designatora niz na liniji 35
+INFO  02:09:16,047 - Pronadjeno je jedan 1 na liniji 35
+INFO  02:09:16,047 - Prvi deo designatora jedan na liniji 35
+INFO  02:09:16,048 - Postavljen factor designator jedan na liniji 35
+INFO  02:09:16,048 - Postavljen mulop factor tip 1 na liniji 35
+INFO  02:09:16,048 - Pronadjeno je pet 5 na liniji 35
+INFO  02:09:16,048 - Prvi deo designatora pet na liniji 35
+INFO  02:09:16,048 - Postavljen factor designator pet na liniji 35
+INFO  02:09:16,048 - Postavljen mulop factor tip 1 na liniji 35
+INFO  02:09:16,048 - OVO + na liniji 35
+INFO  02:09:16,048 - Pronadjeno je br 1 na liniji 36
+INFO  02:09:16,048 - Prvi deo designatora br na liniji 36
+INFO  02:09:16,048 - Postavljen factor designator br na liniji 36
+INFO  02:09:16,048 - Postavljen mulop factor tip 5 na liniji 36
+INFO  02:09:16,048 - Print na liniji 36
+INFO  02:09:16,048 - Pronadjeno je nizch 4 na liniji 39
+INFO  02:09:16,048 - Prvi deo designatora nizch na liniji 39
+INFO  02:09:16,048 - Postavljen mulop factor tip 1 na liniji 39
+INFO  02:09:16,048 - New na liniji 39
+INFO  02:09:16,048 - Postavljen mulop factor tip 2 na liniji 39
+INFO  02:09:16,048 - Designator express na liniji 39
+INFO  02:09:16,048 - Pronadjeno je nizch 4 na liniji 40
+INFO  02:09:16,048 - Prvi deo designatora nizch na liniji 40
+INFO  02:09:16,048 - Postavljen mulop factor tip 1 na liniji 40
+INFO  02:09:16,048 - Deo designatora 3 na liniji 40
+INFO  02:09:16,048 - Postavljen mulop factor tip 2 na liniji 40
+INFO  02:09:16,048 - Designator express na liniji 40
+INFO  02:09:16,048 - Pronadjeno je nizch 4 na liniji 41
+INFO  02:09:16,048 - Prvi deo designatora nizch na liniji 41
+INFO  02:09:16,048 - Pronadjeno je jedan 1 na liniji 41
+INFO  02:09:16,048 - Prvi deo designatora jedan na liniji 41
+INFO  02:09:16,048 - Postavljen factor designator jedan na liniji 41
+INFO  02:09:16,048 - Postavljen mulop factor tip 1 na liniji 41
+INFO  02:09:16,048 - Deo designatora 3 na liniji 41
+INFO  02:09:16,048 - Postavljen mulop factor tip 2 na liniji 41
+INFO  02:09:16,048 - Designator express na liniji 41
+INFO  02:09:16,048 - Pronadjeno je nizch 4 na liniji 42
+INFO  02:09:16,048 - Prvi deo designatora nizch na liniji 42
+INFO  02:09:16,049 - Pronadjeno je pet 5 na liniji 42
+INFO  02:09:16,049 - Prvi deo designatora pet na liniji 42
+INFO  02:09:16,049 - Postavljen factor designator pet na liniji 42
+INFO  02:09:16,049 - Postavljen mulop factor tip 1 na liniji 42
+INFO  02:09:16,049 - Postavljen mulop factor tip 1 na liniji 42
+INFO  02:09:16,049 - OVO - na liniji 42
+INFO  02:09:16,049 - Deo designatora 3 na liniji 42
+INFO  02:09:16,049 - Postavljen mulop factor tip 2 na liniji 42
+INFO  02:09:16,049 - Designator express na liniji 42
+INFO  02:09:16,049 - Pronadjeno je nizch 4 na liniji 43
+INFO  02:09:16,049 - Prvi deo designatora nizch na liniji 43
+INFO  02:09:16,049 - Postavljen mulop factor tip 1 na liniji 43
+INFO  02:09:16,049 - Deo designatora 3 na liniji 43
+INFO  02:09:16,049 - Postavljen factor designator   na liniji 43
+INFO  02:09:16,049 - Postavljen mulop factor tip 3 na liniji 43
+INFO  02:09:16,049 - Print na liniji 43
+INFO  02:09:16,049 - Pronadjeno je nizch 4 na liniji 44
+INFO  02:09:16,049 - Prvi deo designatora nizch na liniji 44
+INFO  02:09:16,049 - Pronadjeno je jedan 1 na liniji 44
+INFO  02:09:16,049 - Prvi deo designatora jedan na liniji 44
+INFO  02:09:16,049 - Postavljen factor designator jedan na liniji 44
+INFO  02:09:16,049 - Postavljen mulop factor tip 1 na liniji 44
+INFO  02:09:16,049 - MulopFactL tip 1 na liniji 44
+INFO  02:09:16,049 - Deo designatora 3 na liniji 44
+INFO  02:09:16,049 - Postavljen factor designator   na liniji 44
+INFO  02:09:16,049 - Postavljen mulop factor tip 1 na liniji 44
+INFO  02:09:16,049 - Print na liniji 44
+INFO  02:09:16,049 - Pronadjeno je bodovi 0 na liniji 47
+INFO  02:09:16,049 - Prvi deo designatora bodovi na liniji 47
+INFO  02:09:16,049 - Pronadjeno je bodovi 0 na liniji 47
+INFO  02:09:16,049 - Prvi deo designatora bodovi na liniji 47
+INFO  02:09:16,049 - Postavljen factor designator bodovi na liniji 47
+INFO  02:09:16,049 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - Pronadjeno je pet 5 na liniji 47
+INFO  02:09:16,050 - Prvi deo designatora pet na liniji 47
+INFO  02:09:16,050 - Postavljen factor designator pet na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - Pronadjeno je a 2 na liniji 47
+INFO  02:09:16,050 - Prvi deo designatora a na liniji 47
+INFO  02:09:16,050 - Postavljen factor designator a na liniji 47
+INFO  02:09:16,050 - MulopFactL tip 1 na liniji 47
+INFO  02:09:16,050 - MulopFactL tip 1 na liniji 47
+INFO  02:09:16,050 - Pronadjeno je jedan 1 na liniji 47
+INFO  02:09:16,050 - Prvi deo designatora jedan na liniji 47
+INFO  02:09:16,050 - Postavljen factor designator jedan na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - OVO - na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - Pronadjeno je bodovi 0 na liniji 47
+INFO  02:09:16,050 - Prvi deo designatora bodovi na liniji 47
+INFO  02:09:16,050 - Postavljen factor designator bodovi na liniji 47
+INFO  02:09:16,050 - MulopFactL tip 1 na liniji 47
+INFO  02:09:16,050 - OVO + na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - MulopFactL tip 1 na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - MulopFactL tip 1 na liniji 47
+INFO  02:09:16,050 - OVO + na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - OVO - na liniji 47
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 47
+INFO  02:09:16,050 - OVO - na liniji 47
+INFO  02:09:16,050 - Designator express na liniji 47
+INFO  02:09:16,050 - Pronadjeno je bodovi 0 na liniji 48
+INFO  02:09:16,050 - Prvi deo designatora bodovi na liniji 48
+INFO  02:09:16,050 - Postavljen factor designator bodovi na liniji 48
+INFO  02:09:16,050 - Postavljen mulop factor tip 1 na liniji 48
+INFO  02:09:16,051 - Print na liniji 48
+INFO  02:09:16,051 -  Print count calls = 0
+INFO  02:09:16,051 -  Deklarisanih promenljivih ima = 0
+INFO  02:09:16,051 - ===================================
+INFO  02:09:16,057 - Parsiranje uspesno zavrseno!

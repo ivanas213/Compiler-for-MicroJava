@@ -1,0 +1,30 @@
+INFO  15:44:10,166 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  15:44:10,284 - #40 program
+INFO  15:44:10,284 - #24 MJProgram
+INFO  15:44:10,285 - #24 int
+INFO  15:44:10,285 - #24 x
+INFO  15:44:10,286 - #47 ;
+INFO  15:44:10,289 - #24 int
+INFO  15:44:10,290 - #24 y
+INFO  15:44:10,290 - #47 ;
+INFO  15:44:10,290 - #27 {
+INFO  15:44:10,290 - #24 int
+INFO  15:44:10,291 - #24 k
+INFO  15:44:10,291 - #29 (
+INFO  15:44:10,291 - #46 )
+INFO  15:44:10,292 - #24 int
+INFO  15:44:10,294 - #24 c
+INFO  15:44:10,294 - #47 ;
+INFO  15:44:10,294 - #27 {
+INFO  15:44:10,294 - #42 }
+INFO  15:44:10,295 - #24 int
+INFO  15:44:10,295 - #24 main
+INFO  15:44:10,296 - #29 (
+INFO  15:44:10,296 - #46 )
+INFO  15:44:10,298 - #27 {
+INFO  15:44:10,298 - #24 y
+INFO  15:44:10,298 - #4 =
+INFO  15:44:10,301 - #36 2
+ERROR 15:44:10,301 - 
+Sintaksna greska na liniji 9
+ERROR 15:44:10,301 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

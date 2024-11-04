@@ -1,0 +1,78 @@
+// generated with ast extension for cup
+// version 0.8
+// 14/8/2023 14:9:47
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class IdentOrExprL extends Designator {
+
+    private Designator Designator;
+    private IdentOrExpr IdentOrExpr;
+
+    public IdentOrExprL (Designator Designator, IdentOrExpr IdentOrExpr) {
+        this.Designator=Designator;
+        if(Designator!=null) Designator.setParent(this);
+        this.IdentOrExpr=IdentOrExpr;
+        if(IdentOrExpr!=null) IdentOrExpr.setParent(this);
+    }
+
+    public Designator getDesignator() {
+        return Designator;
+    }
+
+    public void setDesignator(Designator Designator) {
+        this.Designator=Designator;
+    }
+
+    public IdentOrExpr getIdentOrExpr() {
+        return IdentOrExpr;
+    }
+
+    public void setIdentOrExpr(IdentOrExpr IdentOrExpr) {
+        this.IdentOrExpr=IdentOrExpr;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+        if(Designator!=null) Designator.accept(visitor);
+        if(IdentOrExpr!=null) IdentOrExpr.accept(visitor);
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+        if(Designator!=null) Designator.traverseTopDown(visitor);
+        if(IdentOrExpr!=null) IdentOrExpr.traverseTopDown(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        if(Designator!=null) Designator.traverseBottomUp(visitor);
+        if(IdentOrExpr!=null) IdentOrExpr.traverseBottomUp(visitor);
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("IdentOrExprL(\n");
+
+        if(Designator!=null)
+            buffer.append(Designator.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(IdentOrExpr!=null)
+            buffer.append(IdentOrExpr.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        buffer.append(tab);
+        buffer.append(") [IdentOrExprL]");
+        return buffer.toString();
+    }
+}

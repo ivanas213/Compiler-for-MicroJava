@@ -1,0 +1,27 @@
+INFO  17:36:54,656 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\test303.mj
+INFO  17:36:54,850 - #36 program
+INFO  17:36:54,850 - #46 test_303
+INFO  17:36:54,850 - #7 const
+INFO  17:36:54,853 - #46 int
+INFO  17:36:54,853 - #46 cinilac
+INFO  17:36:54,856 - #4 =
+INFO  17:36:54,856 - #47 4
+INFO  17:36:54,856 - #8 ,
+INFO  17:36:54,858 - #46 delilac
+INFO  17:36:54,858 - #4 =
+INFO  17:36:54,858 - #47 3
+INFO  17:36:54,858 - #43 ;
+INFO  17:36:54,859 - #6 class
+INFO  17:36:54,861 - #46 Predmet
+INFO  17:36:54,861 - #24 {
+INFO  17:36:54,862 - #46 int
+INFO  17:36:54,864 - #46 tezina
+INFO  17:36:54,866 - #43 ;
+INFO  17:36:54,870 - #46 char
+INFO  17:36:54,872 - #46 vrsta
+INFO  17:36:54,872 - #43 ;
+INFO  17:36:54,872 - #24 {
+INFO  17:36:54,873 - #46 int
+ERROR 17:36:54,873 - 
+Sintaksna greska na liniji 13
+ERROR 17:36:54,873 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

@@ -1,0 +1,40 @@
+INFO  04:42:19,055 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\test302.mj
+INFO  04:42:19,159 - #36 program
+INFO  04:42:19,159 - #46 test302
+INFO  04:42:19,159 - #7 const
+INFO  04:42:19,160 - #46 int
+INFO  04:42:19,161 - #46 jedan
+INFO  04:42:19,164 - #4 =
+INFO  04:42:19,164 - #47 1
+INFO  04:42:19,164 - #43 ;
+INFO  04:42:19,165 - #46 int
+INFO  04:42:19,166 - #46 i
+INFO  04:42:19,167 - #43 ;
+INFO  04:42:19,169 - #46 bool
+INFO  04:42:19,170 - #46 ibool
+INFO  04:42:19,170 - #43 ;
+INFO  04:42:19,170 - #46 int
+INFO  04:42:19,170 - #46 niz2
+INFO  04:42:19,170 - #25 [
+INFO  04:42:19,170 - #39 ]
+INFO  04:42:19,170 - #43 ;
+INFO  04:42:19,171 - #46 int
+INFO  04:42:19,171 - #46 niz
+INFO  04:42:19,171 - #25 [
+INFO  04:42:19,171 - #39 ]
+INFO  04:42:19,171 - #43 ;
+INFO  04:42:19,171 - #46 int
+INFO  04:42:19,171 - #46 a
+INFO  04:42:19,171 - #8 ,
+INFO  04:42:19,171 - #46 curr
+INFO  04:42:19,171 - #43 ;
+INFO  04:42:19,172 - #24 {
+INFO  04:42:19,172 - #46 int
+INFO  04:42:19,172 - #46 sum
+INFO  04:42:19,173 - #26 (
+INFO  04:42:19,173 - #46 int
+INFO  04:42:19,173 - #46 z
+INFO  04:42:19,174 - #8 ,
+ERROR 04:42:19,174 - 
+Sintaksna greska na liniji 17
+ERROR 04:42:19,174 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 17

@@ -1,0 +1,147 @@
+INFO  16:04:54,549 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  16:04:54,636 - #40 program
+INFO  16:04:54,637 - #24 MJProgram
+INFO  16:04:54,637 - #24 int
+INFO  16:04:54,638 - #24 x
+INFO  16:04:54,639 - #47 ;
+INFO  16:04:54,640 - #24 int
+INFO  16:04:54,641 - #24 y
+INFO  16:04:54,641 - #47 ;
+INFO  16:04:54,641 - #27 {
+INFO  16:04:54,641 - #24 int
+INFO  16:04:54,642 - #24 k
+INFO  16:04:54,642 - #29 (
+INFO  16:04:54,642 - #46 )
+INFO  16:04:54,643 - #24 int
+INFO  16:04:54,643 - #24 c
+INFO  16:04:54,644 - #47 ;
+INFO  16:04:54,645 - #27 {
+INFO  16:04:54,645 - #42 }
+INFO  16:04:54,645 - #24 int
+INFO  16:04:54,645 - #24 main
+INFO  16:04:54,645 - #29 (
+INFO  16:04:54,645 - #46 )
+INFO  16:04:54,645 - #27 {
+INFO  16:04:54,645 - #39 print
+INFO  16:04:54,645 - #29 (
+INFO  16:04:54,645 - #24 y
+INFO  16:04:54,645 - #46 )
+INFO  16:04:54,648 - #47 ;
+INFO  16:04:54,648 - #45 return
+INFO  16:04:54,649 - #24 c
+INFO  16:04:54,649 - #47 ;
+INFO  16:04:54,649 - #42 }
+INFO  16:04:54,649 - #42 }
+INFO  16:04:54,651 - Program(
+  DeclarationList(
+    DeclarationList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      VarDeclaration(
+        VarDecl(
+          Type(
+          ) [Type]
+          OneIdent(
+            Ident(
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        Type(
+        ) [Type]
+        OneIdent(
+          Ident(
+            NoBrackets(
+            ) [NoBrackets]
+          ) [Ident]
+        ) [OneIdent]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDeclType(
+        Type(
+        ) [Type]
+        NoFormPars(
+        ) [NoFormPars]
+        VarDeclarationList(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDecl(
+            Type(
+            ) [Type]
+            OneIdent(
+              Ident(
+                NoBrackets(
+                ) [NoBrackets]
+              ) [Ident]
+            ) [OneIdent]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        NoStatementList(
+        ) [NoStatementList]
+      ) [MethodDeclType]
+    ) [MethodDeclarationList]
+    MethodDeclType(
+      Type(
+      ) [Type]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StmList(
+        StmList(
+          NoStatementList(
+          ) [NoStatementList]
+          PrintStatement(
+            ExprPositive(
+              OneAddopTerm(
+                Term(
+                  OneMulopFactor(
+                    FactorDesignator(
+                      Designator(
+                        NoIdentOrExprList(
+                        ) [NoIdentOrExprList]
+                      ) [Designator]
+                      NoFunc(
+                      ) [NoFunc]
+                    ) [FactorDesignator]
+                  ) [OneMulopFactor]
+                ) [Term]
+              ) [OneAddopTerm]
+            ) [ExprPositive]
+          ) [PrintStatement]
+        ) [StmList]
+        ReturnExprStatement(
+          ExprPositive(
+            OneAddopTerm(
+              Term(
+                OneMulopFactor(
+                  FactorDesignator(
+                    Designator(
+                      NoIdentOrExprList(
+                      ) [NoIdentOrExprList]
+                    ) [Designator]
+                    NoFunc(
+                    ) [NoFunc]
+                  ) [FactorDesignator]
+                ) [OneMulopFactor]
+              ) [Term]
+            ) [OneAddopTerm]
+          ) [ExprPositive]
+        ) [ReturnExprStatement]
+      ) [StmList]
+    ) [MethodDeclType]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  16:04:54,651 - ===================================
+INFO  16:04:54,653 -  Print count calls = 1
+INFO  16:04:54,653 -  Deklarisanih promenljivih ima = 3

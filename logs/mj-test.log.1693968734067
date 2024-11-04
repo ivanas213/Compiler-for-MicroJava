@@ -1,0 +1,2551 @@
+INFO  04:51:46,028 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\test302.mj
+INFO  04:51:46,219 - #36 program
+INFO  04:51:46,219 - #46 test302
+INFO  04:51:46,219 - #7 const
+INFO  04:51:46,221 - #46 int
+INFO  04:51:46,221 - #46 jedan
+INFO  04:51:46,223 - #4 =
+INFO  04:51:46,223 - #47 1
+INFO  04:51:46,223 - #43 ;
+INFO  04:51:46,224 - #46 int
+INFO  04:51:46,225 - #46 i
+INFO  04:51:46,226 - #43 ;
+INFO  04:51:46,230 - #46 bool
+INFO  04:51:46,231 - #46 ibool
+INFO  04:51:46,231 - #43 ;
+INFO  04:51:46,231 - #46 int
+INFO  04:51:46,231 - #46 niz2
+INFO  04:51:46,231 - #25 [
+INFO  04:51:46,231 - #39 ]
+INFO  04:51:46,231 - #43 ;
+INFO  04:51:46,232 - #46 int
+INFO  04:51:46,232 - #46 niz
+INFO  04:51:46,233 - #25 [
+INFO  04:51:46,233 - #39 ]
+INFO  04:51:46,233 - #43 ;
+INFO  04:51:46,233 - #46 int
+INFO  04:51:46,233 - #46 a
+INFO  04:51:46,233 - #8 ,
+INFO  04:51:46,233 - #46 curr
+INFO  04:51:46,233 - #43 ;
+INFO  04:51:46,234 - #24 {
+INFO  04:51:46,234 - #46 int
+INFO  04:51:46,235 - #46 sum
+INFO  04:51:46,235 - #26 (
+INFO  04:51:46,236 - #46 int
+INFO  04:51:46,236 - #46 z
+INFO  04:51:46,237 - #8 ,
+INFO  04:51:46,240 - #46 int
+INFO  04:51:46,240 - #46 d
+INFO  04:51:46,240 - #42 )
+INFO  04:51:46,242 - #24 {
+INFO  04:51:46,243 - #41 return
+INFO  04:51:46,244 - #46 z
+INFO  04:51:46,244 - #34 +
+INFO  04:51:46,246 - #46 d
+INFO  04:51:46,248 - #43 ;
+INFO  04:51:46,249 - #38 }
+INFO  04:51:46,249 - #46 int
+INFO  04:51:46,251 - #46 inkrement
+INFO  04:51:46,252 - #26 (
+INFO  04:51:46,252 - #46 int
+INFO  04:51:46,252 - #46 a
+INFO  04:51:46,252 - #8 ,
+INFO  04:51:46,252 - #46 int
+INFO  04:51:46,252 - #46 inc
+INFO  04:51:46,253 - #42 )
+INFO  04:51:46,253 - #46 int
+INFO  04:51:46,253 - #46 pom
+INFO  04:51:46,253 - #43 ;
+INFO  04:51:46,253 - #24 {
+INFO  04:51:46,253 - #23 if
+INFO  04:51:46,253 - #26 (
+INFO  04:51:46,253 - #46 inc
+INFO  04:51:46,253 - #16 ==
+INFO  04:51:46,253 - #46 jedan
+INFO  04:51:46,256 - #42 )
+INFO  04:51:46,259 - #46 pom
+INFO  04:51:46,260 - #4 =
+INFO  04:51:46,260 - #47 1
+INFO  04:51:46,261 - #43 ;
+INFO  04:51:46,261 - #14 else
+INFO  04:51:46,262 - #23 if
+INFO  04:51:46,262 - #26 (
+INFO  04:51:46,262 - #46 inc
+INFO  04:51:46,262 - #16 ==
+INFO  04:51:46,262 - #47 2
+INFO  04:51:46,262 - #42 )
+INFO  04:51:46,262 - #46 pom
+INFO  04:51:46,262 - #4 =
+INFO  04:51:46,262 - #46 a
+INFO  04:51:46,262 - #43 ;
+INFO  04:51:46,262 - #41 return
+INFO  04:51:46,263 - #46 sum
+INFO  04:51:46,263 - #26 (
+INFO  04:51:46,264 - #46 a
+INFO  04:51:46,264 - #8 ,
+INFO  04:51:46,264 - #46 pom
+INFO  04:51:46,264 - #42 )
+INFO  04:51:46,264 - #43 ;
+INFO  04:51:46,264 - #38 }
+INFO  04:51:46,264 - #46 bool
+INFO  04:51:46,264 - #46 verify
+INFO  04:51:46,264 - #26 (
+INFO  04:51:46,265 - #42 )
+INFO  04:51:46,266 - #24 {
+INFO  04:51:46,266 - #35 print
+INFO  04:51:46,266 - #26 (
+INFO  04:51:46,266 - #49 'v'
+INFO  04:51:46,266 - #42 )
+INFO  04:51:46,266 - #43 ;
+INFO  04:51:46,266 - #41 return
+INFO  04:51:46,266 - #48 false
+INFO  04:51:46,266 - #43 ;
+INFO  04:51:46,266 - #38 }
+INFO  04:51:46,267 - #44 void
+INFO  04:51:46,267 - #46 main
+INFO  04:51:46,268 - #26 (
+INFO  04:51:46,268 - #42 )
+INFO  04:51:46,268 - #24 {
+INFO  04:51:46,268 - #23 if
+INFO  04:51:46,268 - #26 (
+INFO  04:51:46,268 - #47 1
+INFO  04:51:46,268 - #32 !=
+INFO  04:51:46,268 - #47 1
+INFO  04:51:46,269 - #42 )
+INFO  04:51:46,270 - #35 print
+INFO  04:51:46,270 - #26 (
+INFO  04:51:46,270 - #29 -
+INFO  04:51:46,270 - #47 6
+INFO  04:51:46,270 - #42 )
+INFO  04:51:46,270 - #43 ;
+INFO  04:51:46,270 - #14 else
+INFO  04:51:46,270 - #35 print
+INFO  04:51:46,270 - #26 (
+INFO  04:51:46,270 - #47 0
+INFO  04:51:46,270 - #42 )
+INFO  04:51:46,270 - #43 ;
+INFO  04:51:46,270 - #46 ibool
+INFO  04:51:46,270 - #4 =
+INFO  04:51:46,270 - #48 false
+INFO  04:51:46,270 - #43 ;
+INFO  04:51:46,270 - #46 i
+INFO  04:51:46,270 - #4 =
+INFO  04:51:46,270 - #47 0
+INFO  04:51:46,270 - #43 ;
+INFO  04:51:46,271 - #45 while
+INFO  04:51:46,271 - #26 (
+INFO  04:51:46,272 - #46 i
+INFO  04:51:46,272 - #27 <
+INFO  04:51:46,272 - #47 5
+INFO  04:51:46,274 - #42 )
+INFO  04:51:46,274 - #24 {
+INFO  04:51:46,274 - #23 if
+INFO  04:51:46,274 - #26 (
+INFO  04:51:46,274 - #46 i
+INFO  04:51:46,274 - #16 ==
+INFO  04:51:46,274 - #47 2
+INFO  04:51:46,274 - #42 )
+INFO  04:51:46,274 - #46 ibool
+INFO  04:51:46,274 - #4 =
+INFO  04:51:46,274 - #48 true
+INFO  04:51:46,274 - #43 ;
+INFO  04:51:46,274 - #46 i
+INFO  04:51:46,275 - #22 ++
+INFO  04:51:46,275 - #43 ;
+INFO  04:51:46,275 - #38 }
+INFO  04:51:46,275 - #23 if
+INFO  04:51:46,275 - #26 (
+INFO  04:51:46,275 - #46 ibool
+INFO  04:51:46,275 - #42 )
+INFO  04:51:46,275 - #23 if
+INFO  04:51:46,275 - #26 (
+INFO  04:51:46,275 - #46 i
+INFO  04:51:46,275 - #16 ==
+INFO  04:51:46,275 - #47 5
+INFO  04:51:46,275 - #42 )
+INFO  04:51:46,276 - #35 print
+INFO  04:51:46,276 - #26 (
+INFO  04:51:46,276 - #47 1
+INFO  04:51:46,276 - #42 )
+INFO  04:51:46,276 - #43 ;
+INFO  04:51:46,276 - #14 else
+INFO  04:51:46,276 - #35 print
+INFO  04:51:46,276 - #26 (
+INFO  04:51:46,276 - #29 -
+INFO  04:51:46,276 - #47 1
+INFO  04:51:46,276 - #42 )
+INFO  04:51:46,276 - #43 ;
+INFO  04:51:46,276 - #46 a
+INFO  04:51:46,276 - #4 =
+INFO  04:51:46,276 - #47 2
+INFO  04:51:46,276 - #43 ;
+INFO  04:51:46,276 - #46 niz
+INFO  04:51:46,277 - #4 =
+INFO  04:51:46,277 - #31 new
+INFO  04:51:46,277 - #46 int
+INFO  04:51:46,277 - #25 [
+INFO  04:51:46,277 - #47 3
+INFO  04:51:46,277 - #39 ]
+INFO  04:51:46,277 - #43 ;
+INFO  04:51:46,277 - #46 niz
+INFO  04:51:46,277 - #25 [
+INFO  04:51:46,277 - #47 0
+INFO  04:51:46,277 - #39 ]
+INFO  04:51:46,277 - #4 =
+INFO  04:51:46,278 - #47 1
+INFO  04:51:46,278 - #30 *
+INFO  04:51:46,278 - #46 a
+INFO  04:51:46,280 - #43 ;
+INFO  04:51:46,281 - #46 niz
+INFO  04:51:46,281 - #25 [
+INFO  04:51:46,281 - #47 1
+INFO  04:51:46,281 - #39 ]
+INFO  04:51:46,281 - #4 =
+INFO  04:51:46,281 - #47 2
+INFO  04:51:46,281 - #30 *
+INFO  04:51:46,281 - #46 a
+INFO  04:51:46,281 - #43 ;
+INFO  04:51:46,281 - #46 niz
+INFO  04:51:46,281 - #25 [
+INFO  04:51:46,281 - #47 2
+INFO  04:51:46,281 - #39 ]
+INFO  04:51:46,282 - #4 =
+INFO  04:51:46,282 - #46 sum
+INFO  04:51:46,282 - #26 (
+INFO  04:51:46,282 - #46 niz
+INFO  04:51:46,282 - #25 [
+INFO  04:51:46,282 - #47 1
+INFO  04:51:46,282 - #39 ]
+INFO  04:51:46,282 - #8 ,
+INFO  04:51:46,282 - #46 niz
+INFO  04:51:46,282 - #25 [
+INFO  04:51:46,282 - #47 0
+INFO  04:51:46,282 - #39 ]
+INFO  04:51:46,282 - #42 )
+INFO  04:51:46,282 - #30 *
+INFO  04:51:46,282 - #46 a
+INFO  04:51:46,282 - #34 +
+INFO  04:51:46,282 - #47 1
+INFO  04:51:46,282 - #43 ;
+INFO  04:51:46,282 - #23 if
+INFO  04:51:46,283 - #26 (
+INFO  04:51:46,283 - #46 verify
+INFO  04:51:46,283 - #26 (
+INFO  04:51:46,283 - #42 )
+INFO  04:51:46,283 - #37 ||
+INFO  04:51:46,284 - #46 niz
+INFO  04:51:46,284 - #25 [
+INFO  04:51:46,284 - #47 2
+INFO  04:51:46,284 - #39 ]
+INFO  04:51:46,284 - #16 ==
+INFO  04:51:46,284 - #47 4
+INFO  04:51:46,284 - #42 )
+INFO  04:51:46,284 - #35 print
+INFO  04:51:46,284 - #26 (
+INFO  04:51:46,284 - #46 ord
+INFO  04:51:46,284 - #26 (
+INFO  04:51:46,284 - #49 'A'
+INFO  04:51:46,284 - #42 )
+INFO  04:51:46,284 - #42 )
+INFO  04:51:46,285 - #43 ;
+INFO  04:51:46,285 - #14 else
+INFO  04:51:46,285 - #35 print
+INFO  04:51:46,285 - #26 (
+INFO  04:51:46,285 - #46 ord
+INFO  04:51:46,285 - #26 (
+INFO  04:51:46,285 - #49 'a'
+INFO  04:51:46,285 - #42 )
+INFO  04:51:46,285 - #42 )
+INFO  04:51:46,285 - #43 ;
+INFO  04:51:46,285 - #35 print
+INFO  04:51:46,285 - #26 (
+INFO  04:51:46,285 - #46 eol
+INFO  04:51:46,285 - #42 )
+INFO  04:51:46,286 - #43 ;
+INFO  04:51:46,286 - #46 i
+INFO  04:51:46,286 - #4 =
+INFO  04:51:46,286 - #47 0
+INFO  04:51:46,286 - #43 ;
+INFO  04:51:46,286 - #45 while
+INFO  04:51:46,286 - #26 (
+INFO  04:51:46,286 - #46 i
+INFO  04:51:46,286 - #27 <
+INFO  04:51:46,286 - #47 10
+INFO  04:51:46,286 - #42 )
+INFO  04:51:46,286 - #24 {
+INFO  04:51:46,286 - #23 if
+INFO  04:51:46,286 - #26 (
+INFO  04:51:46,286 - #46 i
+INFO  04:51:46,286 - #16 ==
+INFO  04:51:46,286 - #47 3
+INFO  04:51:46,286 - #42 )
+INFO  04:51:46,286 - #24 {
+INFO  04:51:46,286 - #46 i
+INFO  04:51:46,286 - #22 ++
+INFO  04:51:46,286 - #43 ;
+INFO  04:51:46,286 - #9 continue
+INFO  04:51:46,286 - #43 ;
+INFO  04:51:46,286 - #38 }
+INFO  04:51:46,287 - #23 if
+INFO  04:51:46,287 - #26 (
+INFO  04:51:46,287 - #46 i
+INFO  04:51:46,287 - #16 ==
+INFO  04:51:46,288 - #47 4
+INFO  04:51:46,288 - #42 )
+INFO  04:51:46,288 - #5 break
+INFO  04:51:46,288 - #43 ;
+INFO  04:51:46,288 - #46 i
+INFO  04:51:46,290 - #4 =
+INFO  04:51:46,290 - #46 inkrement
+INFO  04:51:46,290 - #26 (
+INFO  04:51:46,290 - #46 i
+INFO  04:51:46,290 - #8 ,
+INFO  04:51:46,290 - #47 1
+INFO  04:51:46,290 - #42 )
+INFO  04:51:46,290 - #43 ;
+INFO  04:51:46,290 - #38 }
+INFO  04:51:46,290 - #23 if
+INFO  04:51:46,291 - #26 (
+INFO  04:51:46,291 - #46 i
+INFO  04:51:46,291 - #16 ==
+INFO  04:51:46,291 - #47 3
+INFO  04:51:46,291 - #2 &&
+INFO  04:51:46,291 - #46 verify
+INFO  04:51:46,291 - #26 (
+INFO  04:51:46,291 - #42 )
+INFO  04:51:46,291 - #42 )
+INFO  04:51:46,291 - #35 print
+INFO  04:51:46,291 - #26 (
+INFO  04:51:46,291 - #29 -
+INFO  04:51:46,291 - #47 4
+INFO  04:51:46,291 - #42 )
+INFO  04:51:46,291 - #43 ;
+INFO  04:51:46,292 - #14 else
+INFO  04:51:46,292 - #35 print
+INFO  04:51:46,292 - #26 (
+INFO  04:51:46,292 - #47 4
+INFO  04:51:46,292 - #42 )
+INFO  04:51:46,292 - #43 ;
+INFO  04:51:46,292 - #40 read
+INFO  04:51:46,292 - #26 (
+INFO  04:51:46,292 - #46 niz
+INFO  04:51:46,292 - #25 [
+INFO  04:51:46,292 - #47 0
+INFO  04:51:46,292 - #39 ]
+INFO  04:51:46,292 - #42 )
+INFO  04:51:46,292 - #43 ;
+INFO  04:51:46,292 - #40 read
+INFO  04:51:46,292 - #26 (
+INFO  04:51:46,292 - #46 niz
+INFO  04:51:46,292 - #25 [
+INFO  04:51:46,292 - #47 1
+INFO  04:51:46,292 - #39 ]
+INFO  04:51:46,293 - #42 )
+INFO  04:51:46,293 - #43 ;
+INFO  04:51:46,293 - #40 read
+INFO  04:51:46,293 - #26 (
+INFO  04:51:46,293 - #46 niz
+INFO  04:51:46,293 - #25 [
+INFO  04:51:46,293 - #47 2
+INFO  04:51:46,293 - #39 ]
+INFO  04:51:46,293 - #42 )
+INFO  04:51:46,293 - #43 ;
+INFO  04:51:46,293 - #35 print
+INFO  04:51:46,293 - #26 (
+INFO  04:51:46,293 - #46 eol
+INFO  04:51:46,293 - #42 )
+INFO  04:51:46,293 - #43 ;
+INFO  04:51:46,293 - #35 print
+INFO  04:51:46,293 - #26 (
+INFO  04:51:46,293 - #46 sum
+INFO  04:51:46,293 - #26 (
+INFO  04:51:46,293 - #46 sum
+INFO  04:51:46,293 - #26 (
+INFO  04:51:46,293 - #46 niz
+INFO  04:51:46,293 - #25 [
+INFO  04:51:46,293 - #47 0
+INFO  04:51:46,293 - #39 ]
+INFO  04:51:46,293 - #8 ,
+INFO  04:51:46,293 - #46 niz
+INFO  04:51:46,293 - #25 [
+INFO  04:51:46,293 - #47 1
+INFO  04:51:46,293 - #39 ]
+INFO  04:51:46,293 - #42 )
+INFO  04:51:46,293 - #8 ,
+INFO  04:51:46,293 - #46 niz
+INFO  04:51:46,293 - #25 [
+INFO  04:51:46,293 - #47 2
+INFO  04:51:46,293 - #39 ]
+INFO  04:51:46,293 - #42 )
+INFO  04:51:46,294 - #42 )
+INFO  04:51:46,294 - #43 ;
+INFO  04:51:46,294 - #35 print
+INFO  04:51:46,294 - #26 (
+INFO  04:51:46,294 - #46 eol
+INFO  04:51:46,294 - #42 )
+INFO  04:51:46,294 - #43 ;
+INFO  04:51:46,294 - #35 print
+INFO  04:51:46,294 - #26 (
+INFO  04:51:46,294 - #46 inkrement
+INFO  04:51:46,294 - #26 (
+INFO  04:51:46,294 - #46 niz
+INFO  04:51:46,294 - #25 [
+INFO  04:51:46,294 - #47 2
+INFO  04:51:46,294 - #39 ]
+INFO  04:51:46,294 - #8 ,
+INFO  04:51:46,294 - #47 2
+INFO  04:51:46,294 - #42 )
+INFO  04:51:46,294 - #42 )
+INFO  04:51:46,294 - #43 ;
+INFO  04:51:46,294 - #46 a
+INFO  04:51:46,294 - #4 =
+INFO  04:51:46,294 - #47 3
+INFO  04:51:46,294 - #43 ;
+INFO  04:51:46,294 - #46 i
+INFO  04:51:46,294 - #4 =
+INFO  04:51:46,294 - #47 0
+INFO  04:51:46,294 - #43 ;
+INFO  04:51:46,294 - #45 while
+INFO  04:51:46,294 - #26 (
+INFO  04:51:46,294 - #46 i
+INFO  04:51:46,294 - #27 <
+INFO  04:51:46,294 - #47 3
+INFO  04:51:46,294 - #42 )
+INFO  04:51:46,294 - #24 {
+INFO  04:51:46,294 - #46 niz
+INFO  04:51:46,294 - #25 [
+INFO  04:51:46,295 - #46 i
+INFO  04:51:46,295 - #39 ]
+INFO  04:51:46,295 - #4 =
+INFO  04:51:46,295 - #46 niz
+INFO  04:51:46,295 - #25 [
+INFO  04:51:46,295 - #46 i
+INFO  04:51:46,295 - #39 ]
+INFO  04:51:46,295 - #30 *
+INFO  04:51:46,295 - #47 2
+INFO  04:51:46,295 - #30 *
+INFO  04:51:46,295 - #46 a
+INFO  04:51:46,295 - #43 ;
+INFO  04:51:46,295 - #46 i
+INFO  04:51:46,295 - #22 ++
+INFO  04:51:46,295 - #43 ;
+INFO  04:51:46,295 - #38 }
+INFO  04:51:46,295 - #46 niz
+INFO  04:51:46,295 - #25 [
+INFO  04:51:46,295 - #47 1
+INFO  04:51:46,295 - #39 ]
+INFO  04:51:46,295 - #4 =
+INFO  04:51:46,295 - #47 6
+INFO  04:51:46,295 - #43 ;
+INFO  04:51:46,295 - #46 niz
+INFO  04:51:46,295 - #12 .
+INFO  04:51:46,295 - #19 foreach
+INFO  04:51:46,295 - #26 (
+INFO  04:51:46,295 - #46 curr
+INFO  04:51:46,295 - #3 =>
+INFO  04:51:46,295 - #35 print
+INFO  04:51:46,295 - #26 (
+INFO  04:51:46,295 - #46 curr
+INFO  04:51:46,295 - #42 )
+INFO  04:51:46,295 - #43 ;
+INFO  04:51:46,295 - #42 )
+INFO  04:51:46,295 - #43 ;
+INFO  04:51:46,295 - #46 niz2
+INFO  04:51:46,296 - #4 =
+INFO  04:51:46,296 - #46 niz
+INFO  04:51:46,296 - #12 .
+INFO  04:51:46,296 - #17 findAndReplace
+INFO  04:51:46,296 - #26 (
+INFO  04:51:46,296 - #46 jedan
+INFO  04:51:46,296 - #34 +
+INFO  04:51:46,296 - #47 5
+INFO  04:51:46,296 - #8 ,
+INFO  04:51:46,296 - #46 curr
+INFO  04:51:46,296 - #3 =>
+INFO  04:51:46,296 - #46 curr
+INFO  04:51:46,296 - #30 *
+INFO  04:51:46,296 - #47 3
+INFO  04:51:46,296 - #42 )
+INFO  04:51:46,296 - #43 ;
+INFO  04:51:46,296 - #46 niz2
+INFO  04:51:46,296 - #12 .
+INFO  04:51:46,296 - #19 foreach
+INFO  04:51:46,296 - #26 (
+INFO  04:51:46,296 - #46 curr
+INFO  04:51:46,296 - #3 =>
+INFO  04:51:46,296 - #35 print
+INFO  04:51:46,296 - #26 (
+INFO  04:51:46,296 - #46 curr
+INFO  04:51:46,296 - #42 )
+INFO  04:51:46,297 - #43 ;
+INFO  04:51:46,297 - #42 )
+INFO  04:51:46,297 - #43 ;
+INFO  04:51:46,297 - #38 }
+INFO  04:51:46,297 - #38 }
+INFO  04:51:46,313 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  DeclarationList(
+    DeclarationList(
+      DeclarationList(
+        DeclarationList(
+          DeclarationList(
+            DeclarationList(
+              NoDeclarations(
+              ) [NoDeclarations]
+              ConstDeclatation(
+                ConstDecl(
+                  ConstType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ConstType]
+                  OneIdentVal(
+                    IdentVal(
+                     jedan
+                      NumConstant(
+                       1
+                      ) [NumConstant]
+                    ) [IdentVal]
+                  ) [OneIdentVal]
+                ) [ConstDecl]
+              ) [ConstDeclatation]
+            ) [DeclarationList]
+            VarDeclaration(
+              VarDecl(
+                VarType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [VarType]
+                OneIdent(
+                  Ident(
+                   i
+                    NoBrackets(
+                    ) [NoBrackets]
+                  ) [Ident]
+                ) [OneIdent]
+              ) [VarDecl]
+            ) [VarDeclaration]
+          ) [DeclarationList]
+          VarDeclaration(
+            VarDecl(
+              VarType(
+                Type(
+                 bool
+                ) [Type]
+              ) [VarType]
+              OneIdent(
+                Ident(
+                 ibool
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [Ident]
+              ) [OneIdent]
+            ) [VarDecl]
+          ) [VarDeclaration]
+        ) [DeclarationList]
+        VarDeclaration(
+          VarDecl(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            OneIdent(
+              Ident(
+               niz2
+                Brackets(
+                ) [Brackets]
+              ) [Ident]
+            ) [OneIdent]
+          ) [VarDecl]
+        ) [VarDeclaration]
+      ) [DeclarationList]
+      VarDeclaration(
+        VarDecl(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+          OneIdent(
+            Ident(
+             niz
+              Brackets(
+              ) [Brackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        IdentificatorList(
+          OneIdent(
+            Ident(
+             a
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+          Ident(
+           curr
+            NoBrackets(
+            ) [NoBrackets]
+          ) [Ident]
+        ) [IdentificatorList]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      MethodDeclarationList(
+        MethodDeclarationList(
+          NoMethodDecl(
+          ) [NoMethodDecl]
+          MethodDecl(
+            MethodNoVoid(
+              Type(
+               int
+              ) [Type]
+            ) [MethodNoVoid]
+            MethodName(
+             sum
+            ) [MethodName]
+            FormParams(
+              FormPars(
+                TypeIdentificatorList(
+                  OneTypeIdent(
+                    TypeIdent(
+                      TypeFormPars(
+                        Type(
+                         int
+                        ) [Type]
+                      ) [TypeFormPars]
+                      IdentFormPars(
+                       z
+                      ) [IdentFormPars]
+                      WithoutBracks(
+                      ) [WithoutBracks]
+                    ) [TypeIdent]
+                  ) [OneTypeIdent]
+                  TypeIdent(
+                    TypeFormPars(
+                      Type(
+                       int
+                      ) [Type]
+                    ) [TypeFormPars]
+                    IdentFormPars(
+                     d
+                    ) [IdentFormPars]
+                    WithoutBracks(
+                    ) [WithoutBracks]
+                  ) [TypeIdent]
+                ) [TypeIdentificatorList]
+              ) [FormPars]
+            ) [FormParams]
+            NoVarDecl(
+            ) [NoVarDecl]
+            StmList(
+              NoStatementList(
+              ) [NoStatementList]
+              ReturnExprStatement(
+                ExprPositive(
+                  AddopTerminalList(
+                    OneAddopTerm(
+                      OneMulopFactor(
+                        FactorDesignator(
+                          NoIdentOrExprList(
+                           z
+                          ) [NoIdentOrExprList]
+                          NoFunc(
+                          ) [NoFunc]
+                        ) [FactorDesignator]
+                      ) [OneMulopFactor]
+                    ) [OneAddopTerm]
+                    AddopTerm(
+                      AddopPlus(
+                      ) [AddopPlus]
+                      OneMulopFactor(
+                        FactorDesignator(
+                          NoIdentOrExprList(
+                           d
+                          ) [NoIdentOrExprList]
+                          NoFunc(
+                          ) [NoFunc]
+                        ) [FactorDesignator]
+                      ) [OneMulopFactor]
+                    ) [AddopTerm]
+                  ) [AddopTerminalList]
+                ) [ExprPositive]
+              ) [ReturnExprStatement]
+            ) [StmList]
+          ) [MethodDecl]
+        ) [MethodDeclarationList]
+        MethodDecl(
+          MethodNoVoid(
+            Type(
+             int
+            ) [Type]
+          ) [MethodNoVoid]
+          MethodName(
+           inkrement
+          ) [MethodName]
+          FormParams(
+            FormPars(
+              TypeIdentificatorList(
+                OneTypeIdent(
+                  TypeIdent(
+                    TypeFormPars(
+                      Type(
+                       int
+                      ) [Type]
+                    ) [TypeFormPars]
+                    IdentFormPars(
+                     a
+                    ) [IdentFormPars]
+                    WithoutBracks(
+                    ) [WithoutBracks]
+                  ) [TypeIdent]
+                ) [OneTypeIdent]
+                TypeIdent(
+                  TypeFormPars(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [TypeFormPars]
+                  IdentFormPars(
+                   inc
+                  ) [IdentFormPars]
+                  WithoutBracks(
+                  ) [WithoutBracks]
+                ) [TypeIdent]
+              ) [TypeIdentificatorList]
+            ) [FormPars]
+          ) [FormParams]
+          VarDeclarationList(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDecl(
+              VarType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarType]
+              OneIdent(
+                Ident(
+                 pom
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [Ident]
+              ) [OneIdent]
+            ) [VarDecl]
+          ) [VarDeclarationList]
+          StmList(
+            StmList(
+              NoStatementList(
+              ) [NoStatementList]
+              IfElseStatement(
+                Condition(
+                  OneCondTerm(
+                    CondTerm(
+                      OneConditionFact(
+                        CondFactRelop(
+                          ExprPositive(
+                            OneAddopTerm(
+                              OneMulopFactor(
+                                FactorDesignator(
+                                  NoIdentOrExprList(
+                                   inc
+                                  ) [NoIdentOrExprList]
+                                  NoFunc(
+                                  ) [NoFunc]
+                                ) [FactorDesignator]
+                              ) [OneMulopFactor]
+                            ) [OneAddopTerm]
+                          ) [ExprPositive]
+                          RelopEqual(
+                          ) [RelopEqual]
+                          ExprPositive(
+                            OneAddopTerm(
+                              OneMulopFactor(
+                                FactorDesignator(
+                                  NoIdentOrExprList(
+                                   jedan
+                                  ) [NoIdentOrExprList]
+                                  NoFunc(
+                                  ) [NoFunc]
+                                ) [FactorDesignator]
+                              ) [OneMulopFactor]
+                            ) [OneAddopTerm]
+                          ) [ExprPositive]
+                        ) [CondFactRelop]
+                      ) [OneConditionFact]
+                    ) [CondTerm]
+                  ) [OneCondTerm]
+                ) [Condition]
+                DesignatorStatementStatement(
+                  DesignatorExpr(
+                    NoIdentOrExprList(
+                     pom
+                    ) [NoIdentOrExprList]
+                    AssignOp(
+                    ) [AssignOp]
+                    ExprPositive(
+                      OneAddopTerm(
+                        OneMulopFactor(
+                          FactorNumConst(
+                           1
+                          ) [FactorNumConst]
+                        ) [OneMulopFactor]
+                      ) [OneAddopTerm]
+                    ) [ExprPositive]
+                  ) [DesignatorExpr]
+                ) [DesignatorStatementStatement]
+                ElseStm(
+                  IfElseStatement(
+                    Condition(
+                      OneCondTerm(
+                        CondTerm(
+                          OneConditionFact(
+                            CondFactRelop(
+                              ExprPositive(
+                                OneAddopTerm(
+                                  OneMulopFactor(
+                                    FactorDesignator(
+                                      NoIdentOrExprList(
+                                       inc
+                                      ) [NoIdentOrExprList]
+                                      NoFunc(
+                                      ) [NoFunc]
+                                    ) [FactorDesignator]
+                                  ) [OneMulopFactor]
+                                ) [OneAddopTerm]
+                              ) [ExprPositive]
+                              RelopEqual(
+                              ) [RelopEqual]
+                              ExprPositive(
+                                OneAddopTerm(
+                                  OneMulopFactor(
+                                    FactorNumConst(
+                                     2
+                                    ) [FactorNumConst]
+                                  ) [OneMulopFactor]
+                                ) [OneAddopTerm]
+                              ) [ExprPositive]
+                            ) [CondFactRelop]
+                          ) [OneConditionFact]
+                        ) [CondTerm]
+                      ) [OneCondTerm]
+                    ) [Condition]
+                    DesignatorStatementStatement(
+                      DesignatorExpr(
+                        NoIdentOrExprList(
+                         pom
+                        ) [NoIdentOrExprList]
+                        AssignOp(
+                        ) [AssignOp]
+                        ExprPositive(
+                          OneAddopTerm(
+                            OneMulopFactor(
+                              FactorDesignator(
+                                NoIdentOrExprList(
+                                 a
+                                ) [NoIdentOrExprList]
+                                NoFunc(
+                                ) [NoFunc]
+                              ) [FactorDesignator]
+                            ) [OneMulopFactor]
+                          ) [OneAddopTerm]
+                        ) [ExprPositive]
+                      ) [DesignatorExpr]
+                    ) [DesignatorStatementStatement]
+                    NoElse(
+                    ) [NoElse]
+                  ) [IfElseStatement]
+                ) [ElseStm]
+              ) [IfElseStatement]
+            ) [StmList]
+            ReturnExprStatement(
+              ExprPositive(
+                OneAddopTerm(
+                  OneMulopFactor(
+                    FactorDesignator(
+                      NoIdentOrExprList(
+                       sum
+                      ) [NoIdentOrExprList]
+                      FuncArg(
+                        ExpressionList(
+                          OneExpr(
+                            ExprPositive(
+                              OneAddopTerm(
+                                OneMulopFactor(
+                                  FactorDesignator(
+                                    NoIdentOrExprList(
+                                     a
+                                    ) [NoIdentOrExprList]
+                                    NoFunc(
+                                    ) [NoFunc]
+                                  ) [FactorDesignator]
+                                ) [OneMulopFactor]
+                              ) [OneAddopTerm]
+                            ) [ExprPositive]
+                          ) [OneExpr]
+                          ExprPositive(
+                            OneAddopTerm(
+                              OneMulopFactor(
+                                FactorDesignator(
+                                  NoIdentOrExprList(
+                                   pom
+                                  ) [NoIdentOrExprList]
+                                  NoFunc(
+                                  ) [NoFunc]
+                                ) [FactorDesignator]
+                              ) [OneMulopFactor]
+                            ) [OneAddopTerm]
+                          ) [ExprPositive]
+                        ) [ExpressionList]
+                      ) [FuncArg]
+                    ) [FactorDesignator]
+                  ) [OneMulopFactor]
+                ) [OneAddopTerm]
+              ) [ExprPositive]
+            ) [ReturnExprStatement]
+          ) [StmList]
+        ) [MethodDecl]
+      ) [MethodDeclarationList]
+      MethodDecl(
+        MethodNoVoid(
+          Type(
+           bool
+          ) [Type]
+        ) [MethodNoVoid]
+        MethodName(
+         verify
+        ) [MethodName]
+        NoFormPars(
+        ) [NoFormPars]
+        NoVarDecl(
+        ) [NoVarDecl]
+        StmList(
+          StmList(
+            NoStatementList(
+            ) [NoStatementList]
+            PrintStatement(
+              ExprPositive(
+                OneAddopTerm(
+                  OneMulopFactor(
+                    FactorCharConst(
+                     'v'
+                    ) [FactorCharConst]
+                  ) [OneMulopFactor]
+                ) [OneAddopTerm]
+              ) [ExprPositive]
+            ) [PrintStatement]
+          ) [StmList]
+          ReturnExprStatement(
+            ExprPositive(
+              OneAddopTerm(
+                OneMulopFactor(
+                  FactorBoolConst(
+                   false
+                  ) [FactorBoolConst]
+                ) [OneMulopFactor]
+              ) [OneAddopTerm]
+            ) [ExprPositive]
+          ) [ReturnExprStatement]
+        ) [StmList]
+      ) [MethodDecl]
+    ) [MethodDeclarationList]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StmList(
+        StmList(
+          StmList(
+            StmList(
+              StmList(
+                StmList(
+                  StmList(
+                    StmList(
+                      StmList(
+                        StmList(
+                          StmList(
+                            StmList(
+                              StmList(
+                                StmList(
+                                  StmList(
+                                    StmList(
+                                      StmList(
+                                        StmList(
+                                          StmList(
+                                            StmList(
+                                              StmList(
+                                                StmList(
+                                                  StmList(
+                                                    StmList(
+                                                      StmList(
+                                                        StmList(
+                                                          StmList(
+                                                            StmList(
+                                                              StmList(
+                                                                NoStatementList(
+                                                                ) [NoStatementList]
+                                                                IfElseStatement(
+                                                                  Condition(
+                                                                    OneCondTerm(
+                                                                      CondTerm(
+                                                                        OneConditionFact(
+                                                                          CondFactRelop(
+                                                                            ExprPositive(
+                                                                              OneAddopTerm(
+                                                                                OneMulopFactor(
+                                                                                  FactorNumConst(
+                                                                                   1
+                                                                                  ) [FactorNumConst]
+                                                                                ) [OneMulopFactor]
+                                                                              ) [OneAddopTerm]
+                                                                            ) [ExprPositive]
+                                                                            RelopNotEqual(
+                                                                            ) [RelopNotEqual]
+                                                                            ExprPositive(
+                                                                              OneAddopTerm(
+                                                                                OneMulopFactor(
+                                                                                  FactorNumConst(
+                                                                                   1
+                                                                                  ) [FactorNumConst]
+                                                                                ) [OneMulopFactor]
+                                                                              ) [OneAddopTerm]
+                                                                            ) [ExprPositive]
+                                                                          ) [CondFactRelop]
+                                                                        ) [OneConditionFact]
+                                                                      ) [CondTerm]
+                                                                    ) [OneCondTerm]
+                                                                  ) [Condition]
+                                                                  PrintStatement(
+                                                                    ExprNegative(
+                                                                      OneAddopTerm(
+                                                                        OneMulopFactor(
+                                                                          FactorNumConst(
+                                                                           6
+                                                                          ) [FactorNumConst]
+                                                                        ) [OneMulopFactor]
+                                                                      ) [OneAddopTerm]
+                                                                    ) [ExprNegative]
+                                                                  ) [PrintStatement]
+                                                                  ElseStm(
+                                                                    PrintStatement(
+                                                                      ExprPositive(
+                                                                        OneAddopTerm(
+                                                                          OneMulopFactor(
+                                                                            FactorNumConst(
+                                                                             0
+                                                                            ) [FactorNumConst]
+                                                                          ) [OneMulopFactor]
+                                                                        ) [OneAddopTerm]
+                                                                      ) [ExprPositive]
+                                                                    ) [PrintStatement]
+                                                                  ) [ElseStm]
+                                                                ) [IfElseStatement]
+                                                              ) [StmList]
+                                                              DesignatorStatementStatement(
+                                                                DesignatorExpr(
+                                                                  NoIdentOrExprList(
+                                                                   ibool
+                                                                  ) [NoIdentOrExprList]
+                                                                  AssignOp(
+                                                                  ) [AssignOp]
+                                                                  ExprPositive(
+                                                                    OneAddopTerm(
+                                                                      OneMulopFactor(
+                                                                        FactorBoolConst(
+                                                                         false
+                                                                        ) [FactorBoolConst]
+                                                                      ) [OneMulopFactor]
+                                                                    ) [OneAddopTerm]
+                                                                  ) [ExprPositive]
+                                                                ) [DesignatorExpr]
+                                                              ) [DesignatorStatementStatement]
+                                                            ) [StmList]
+                                                            DesignatorStatementStatement(
+                                                              DesignatorExpr(
+                                                                NoIdentOrExprList(
+                                                                 i
+                                                                ) [NoIdentOrExprList]
+                                                                AssignOp(
+                                                                ) [AssignOp]
+                                                                ExprPositive(
+                                                                  OneAddopTerm(
+                                                                    OneMulopFactor(
+                                                                      FactorNumConst(
+                                                                       0
+                                                                      ) [FactorNumConst]
+                                                                    ) [OneMulopFactor]
+                                                                  ) [OneAddopTerm]
+                                                                ) [ExprPositive]
+                                                              ) [DesignatorExpr]
+                                                            ) [DesignatorStatementStatement]
+                                                          ) [StmList]
+                                                          WhileStatement(
+                                                            Condition(
+                                                              OneCondTerm(
+                                                                CondTerm(
+                                                                  OneConditionFact(
+                                                                    CondFactRelop(
+                                                                      ExprPositive(
+                                                                        OneAddopTerm(
+                                                                          OneMulopFactor(
+                                                                            FactorDesignator(
+                                                                              NoIdentOrExprList(
+                                                                               i
+                                                                              ) [NoIdentOrExprList]
+                                                                              NoFunc(
+                                                                              ) [NoFunc]
+                                                                            ) [FactorDesignator]
+                                                                          ) [OneMulopFactor]
+                                                                        ) [OneAddopTerm]
+                                                                      ) [ExprPositive]
+                                                                      RelopLT(
+                                                                      ) [RelopLT]
+                                                                      ExprPositive(
+                                                                        OneAddopTerm(
+                                                                          OneMulopFactor(
+                                                                            FactorNumConst(
+                                                                             5
+                                                                            ) [FactorNumConst]
+                                                                          ) [OneMulopFactor]
+                                                                        ) [OneAddopTerm]
+                                                                      ) [ExprPositive]
+                                                                    ) [CondFactRelop]
+                                                                  ) [OneConditionFact]
+                                                                ) [CondTerm]
+                                                              ) [OneCondTerm]
+                                                            ) [Condition]
+                                                            StatementListStatement(
+                                                              StmList(
+                                                                StmList(
+                                                                  NoStatementList(
+                                                                  ) [NoStatementList]
+                                                                  IfElseStatement(
+                                                                    Condition(
+                                                                      OneCondTerm(
+                                                                        CondTerm(
+                                                                          OneConditionFact(
+                                                                            CondFactRelop(
+                                                                              ExprPositive(
+                                                                                OneAddopTerm(
+                                                                                  OneMulopFactor(
+                                                                                    FactorDesignator(
+                                                                                      NoIdentOrExprList(
+                                                                                       i
+                                                                                      ) [NoIdentOrExprList]
+                                                                                      NoFunc(
+                                                                                      ) [NoFunc]
+                                                                                    ) [FactorDesignator]
+                                                                                  ) [OneMulopFactor]
+                                                                                ) [OneAddopTerm]
+                                                                              ) [ExprPositive]
+                                                                              RelopEqual(
+                                                                              ) [RelopEqual]
+                                                                              ExprPositive(
+                                                                                OneAddopTerm(
+                                                                                  OneMulopFactor(
+                                                                                    FactorNumConst(
+                                                                                     2
+                                                                                    ) [FactorNumConst]
+                                                                                  ) [OneMulopFactor]
+                                                                                ) [OneAddopTerm]
+                                                                              ) [ExprPositive]
+                                                                            ) [CondFactRelop]
+                                                                          ) [OneConditionFact]
+                                                                        ) [CondTerm]
+                                                                      ) [OneCondTerm]
+                                                                    ) [Condition]
+                                                                    DesignatorStatementStatement(
+                                                                      DesignatorExpr(
+                                                                        NoIdentOrExprList(
+                                                                         ibool
+                                                                        ) [NoIdentOrExprList]
+                                                                        AssignOp(
+                                                                        ) [AssignOp]
+                                                                        ExprPositive(
+                                                                          OneAddopTerm(
+                                                                            OneMulopFactor(
+                                                                              FactorBoolConst(
+                                                                               true
+                                                                              ) [FactorBoolConst]
+                                                                            ) [OneMulopFactor]
+                                                                          ) [OneAddopTerm]
+                                                                        ) [ExprPositive]
+                                                                      ) [DesignatorExpr]
+                                                                    ) [DesignatorStatementStatement]
+                                                                    NoElse(
+                                                                    ) [NoElse]
+                                                                  ) [IfElseStatement]
+                                                                ) [StmList]
+                                                                DesignatorStatementStatement(
+                                                                  DesignatorInc(
+                                                                    NoIdentOrExprList(
+                                                                     i
+                                                                    ) [NoIdentOrExprList]
+                                                                  ) [DesignatorInc]
+                                                                ) [DesignatorStatementStatement]
+                                                              ) [StmList]
+                                                            ) [StatementListStatement]
+                                                          ) [WhileStatement]
+                                                        ) [StmList]
+                                                        IfElseStatement(
+                                                          Condition(
+                                                            OneCondTerm(
+                                                              CondTerm(
+                                                                OneConditionFact(
+                                                                  CondFactNoRelop(
+                                                                    ExprPositive(
+                                                                      OneAddopTerm(
+                                                                        OneMulopFactor(
+                                                                          FactorDesignator(
+                                                                            NoIdentOrExprList(
+                                                                             ibool
+                                                                            ) [NoIdentOrExprList]
+                                                                            NoFunc(
+                                                                            ) [NoFunc]
+                                                                          ) [FactorDesignator]
+                                                                        ) [OneMulopFactor]
+                                                                      ) [OneAddopTerm]
+                                                                    ) [ExprPositive]
+                                                                  ) [CondFactNoRelop]
+                                                                ) [OneConditionFact]
+                                                              ) [CondTerm]
+                                                            ) [OneCondTerm]
+                                                          ) [Condition]
+                                                          IfElseStatement(
+                                                            Condition(
+                                                              OneCondTerm(
+                                                                CondTerm(
+                                                                  OneConditionFact(
+                                                                    CondFactRelop(
+                                                                      ExprPositive(
+                                                                        OneAddopTerm(
+                                                                          OneMulopFactor(
+                                                                            FactorDesignator(
+                                                                              NoIdentOrExprList(
+                                                                               i
+                                                                              ) [NoIdentOrExprList]
+                                                                              NoFunc(
+                                                                              ) [NoFunc]
+                                                                            ) [FactorDesignator]
+                                                                          ) [OneMulopFactor]
+                                                                        ) [OneAddopTerm]
+                                                                      ) [ExprPositive]
+                                                                      RelopEqual(
+                                                                      ) [RelopEqual]
+                                                                      ExprPositive(
+                                                                        OneAddopTerm(
+                                                                          OneMulopFactor(
+                                                                            FactorNumConst(
+                                                                             5
+                                                                            ) [FactorNumConst]
+                                                                          ) [OneMulopFactor]
+                                                                        ) [OneAddopTerm]
+                                                                      ) [ExprPositive]
+                                                                    ) [CondFactRelop]
+                                                                  ) [OneConditionFact]
+                                                                ) [CondTerm]
+                                                              ) [OneCondTerm]
+                                                            ) [Condition]
+                                                            PrintStatement(
+                                                              ExprPositive(
+                                                                OneAddopTerm(
+                                                                  OneMulopFactor(
+                                                                    FactorNumConst(
+                                                                     1
+                                                                    ) [FactorNumConst]
+                                                                  ) [OneMulopFactor]
+                                                                ) [OneAddopTerm]
+                                                              ) [ExprPositive]
+                                                            ) [PrintStatement]
+                                                            ElseStm(
+                                                              PrintStatement(
+                                                                ExprNegative(
+                                                                  OneAddopTerm(
+                                                                    OneMulopFactor(
+                                                                      FactorNumConst(
+                                                                       1
+                                                                      ) [FactorNumConst]
+                                                                    ) [OneMulopFactor]
+                                                                  ) [OneAddopTerm]
+                                                                ) [ExprNegative]
+                                                              ) [PrintStatement]
+                                                            ) [ElseStm]
+                                                          ) [IfElseStatement]
+                                                          NoElse(
+                                                          ) [NoElse]
+                                                        ) [IfElseStatement]
+                                                      ) [StmList]
+                                                      DesignatorStatementStatement(
+                                                        DesignatorExpr(
+                                                          NoIdentOrExprList(
+                                                           a
+                                                          ) [NoIdentOrExprList]
+                                                          AssignOp(
+                                                          ) [AssignOp]
+                                                          ExprPositive(
+                                                            OneAddopTerm(
+                                                              OneMulopFactor(
+                                                                FactorNumConst(
+                                                                 2
+                                                                ) [FactorNumConst]
+                                                              ) [OneMulopFactor]
+                                                            ) [OneAddopTerm]
+                                                          ) [ExprPositive]
+                                                        ) [DesignatorExpr]
+                                                      ) [DesignatorStatementStatement]
+                                                    ) [StmList]
+                                                    DesignatorStatementStatement(
+                                                      DesignatorExpr(
+                                                        NoIdentOrExprList(
+                                                         niz
+                                                        ) [NoIdentOrExprList]
+                                                        AssignOp(
+                                                        ) [AssignOp]
+                                                        ExprPositive(
+                                                          OneAddopTerm(
+                                                            OneMulopFactor(
+                                                              FactorNew(
+                                                                Type(
+                                                                 int
+                                                                ) [Type]
+                                                                NewTypeExpr(
+                                                                  ExprPositive(
+                                                                    OneAddopTerm(
+                                                                      OneMulopFactor(
+                                                                        FactorNumConst(
+                                                                         3
+                                                                        ) [FactorNumConst]
+                                                                      ) [OneMulopFactor]
+                                                                    ) [OneAddopTerm]
+                                                                  ) [ExprPositive]
+                                                                ) [NewTypeExpr]
+                                                              ) [FactorNew]
+                                                            ) [OneMulopFactor]
+                                                          ) [OneAddopTerm]
+                                                        ) [ExprPositive]
+                                                      ) [DesignatorExpr]
+                                                    ) [DesignatorStatementStatement]
+                                                  ) [StmList]
+                                                  DesignatorStatementStatement(
+                                                    DesignatorExpr(
+                                                      IdentOrExprL(
+                                                        NoIdentOrExprList(
+                                                         niz
+                                                        ) [NoIdentOrExprList]
+                                                        IdentOrExprExpr(
+                                                          ExprPositive(
+                                                            OneAddopTerm(
+                                                              OneMulopFactor(
+                                                                FactorNumConst(
+                                                                 0
+                                                                ) [FactorNumConst]
+                                                              ) [OneMulopFactor]
+                                                            ) [OneAddopTerm]
+                                                          ) [ExprPositive]
+                                                        ) [IdentOrExprExpr]
+                                                      ) [IdentOrExprL]
+                                                      AssignOp(
+                                                      ) [AssignOp]
+                                                      ExprPositive(
+                                                        OneAddopTerm(
+                                                          MulopFactList(
+                                                            OneMulopFactor(
+                                                              FactorNumConst(
+                                                               1
+                                                              ) [FactorNumConst]
+                                                            ) [OneMulopFactor]
+                                                            MulopFactor(
+                                                              MulopMul(
+                                                              ) [MulopMul]
+                                                              FactorDesignator(
+                                                                NoIdentOrExprList(
+                                                                 a
+                                                                ) [NoIdentOrExprList]
+                                                                NoFunc(
+                                                                ) [NoFunc]
+                                                              ) [FactorDesignator]
+                                                            ) [MulopFactor]
+                                                          ) [MulopFactList]
+                                                        ) [OneAddopTerm]
+                                                      ) [ExprPositive]
+                                                    ) [DesignatorExpr]
+                                                  ) [DesignatorStatementStatement]
+                                                ) [StmList]
+                                                DesignatorStatementStatement(
+                                                  DesignatorExpr(
+                                                    IdentOrExprL(
+                                                      NoIdentOrExprList(
+                                                       niz
+                                                      ) [NoIdentOrExprList]
+                                                      IdentOrExprExpr(
+                                                        ExprPositive(
+                                                          OneAddopTerm(
+                                                            OneMulopFactor(
+                                                              FactorNumConst(
+                                                               1
+                                                              ) [FactorNumConst]
+                                                            ) [OneMulopFactor]
+                                                          ) [OneAddopTerm]
+                                                        ) [ExprPositive]
+                                                      ) [IdentOrExprExpr]
+                                                    ) [IdentOrExprL]
+                                                    AssignOp(
+                                                    ) [AssignOp]
+                                                    ExprPositive(
+                                                      OneAddopTerm(
+                                                        MulopFactList(
+                                                          OneMulopFactor(
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                          ) [OneMulopFactor]
+                                                          MulopFactor(
+                                                            MulopMul(
+                                                            ) [MulopMul]
+                                                            FactorDesignator(
+                                                              NoIdentOrExprList(
+                                                               a
+                                                              ) [NoIdentOrExprList]
+                                                              NoFunc(
+                                                              ) [NoFunc]
+                                                            ) [FactorDesignator]
+                                                          ) [MulopFactor]
+                                                        ) [MulopFactList]
+                                                      ) [OneAddopTerm]
+                                                    ) [ExprPositive]
+                                                  ) [DesignatorExpr]
+                                                ) [DesignatorStatementStatement]
+                                              ) [StmList]
+                                              DesignatorStatementStatement(
+                                                DesignatorExpr(
+                                                  IdentOrExprL(
+                                                    NoIdentOrExprList(
+                                                     niz
+                                                    ) [NoIdentOrExprList]
+                                                    IdentOrExprExpr(
+                                                      ExprPositive(
+                                                        OneAddopTerm(
+                                                          OneMulopFactor(
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                          ) [OneMulopFactor]
+                                                        ) [OneAddopTerm]
+                                                      ) [ExprPositive]
+                                                    ) [IdentOrExprExpr]
+                                                  ) [IdentOrExprL]
+                                                  AssignOp(
+                                                  ) [AssignOp]
+                                                  ExprPositive(
+                                                    AddopTerminalList(
+                                                      OneAddopTerm(
+                                                        MulopFactList(
+                                                          OneMulopFactor(
+                                                            FactorDesignator(
+                                                              NoIdentOrExprList(
+                                                               sum
+                                                              ) [NoIdentOrExprList]
+                                                              FuncArg(
+                                                                ExpressionList(
+                                                                  OneExpr(
+                                                                    ExprPositive(
+                                                                      OneAddopTerm(
+                                                                        OneMulopFactor(
+                                                                          FactorDesignator(
+                                                                            IdentOrExprL(
+                                                                              NoIdentOrExprList(
+                                                                               niz
+                                                                              ) [NoIdentOrExprList]
+                                                                              IdentOrExprExpr(
+                                                                                ExprPositive(
+                                                                                  OneAddopTerm(
+                                                                                    OneMulopFactor(
+                                                                                      FactorNumConst(
+                                                                                       1
+                                                                                      ) [FactorNumConst]
+                                                                                    ) [OneMulopFactor]
+                                                                                  ) [OneAddopTerm]
+                                                                                ) [ExprPositive]
+                                                                              ) [IdentOrExprExpr]
+                                                                            ) [IdentOrExprL]
+                                                                            NoFunc(
+                                                                            ) [NoFunc]
+                                                                          ) [FactorDesignator]
+                                                                        ) [OneMulopFactor]
+                                                                      ) [OneAddopTerm]
+                                                                    ) [ExprPositive]
+                                                                  ) [OneExpr]
+                                                                  ExprPositive(
+                                                                    OneAddopTerm(
+                                                                      OneMulopFactor(
+                                                                        FactorDesignator(
+                                                                          IdentOrExprL(
+                                                                            NoIdentOrExprList(
+                                                                             niz
+                                                                            ) [NoIdentOrExprList]
+                                                                            IdentOrExprExpr(
+                                                                              ExprPositive(
+                                                                                OneAddopTerm(
+                                                                                  OneMulopFactor(
+                                                                                    FactorNumConst(
+                                                                                     0
+                                                                                    ) [FactorNumConst]
+                                                                                  ) [OneMulopFactor]
+                                                                                ) [OneAddopTerm]
+                                                                              ) [ExprPositive]
+                                                                            ) [IdentOrExprExpr]
+                                                                          ) [IdentOrExprL]
+                                                                          NoFunc(
+                                                                          ) [NoFunc]
+                                                                        ) [FactorDesignator]
+                                                                      ) [OneMulopFactor]
+                                                                    ) [OneAddopTerm]
+                                                                  ) [ExprPositive]
+                                                                ) [ExpressionList]
+                                                              ) [FuncArg]
+                                                            ) [FactorDesignator]
+                                                          ) [OneMulopFactor]
+                                                          MulopFactor(
+                                                            MulopMul(
+                                                            ) [MulopMul]
+                                                            FactorDesignator(
+                                                              NoIdentOrExprList(
+                                                               a
+                                                              ) [NoIdentOrExprList]
+                                                              NoFunc(
+                                                              ) [NoFunc]
+                                                            ) [FactorDesignator]
+                                                          ) [MulopFactor]
+                                                        ) [MulopFactList]
+                                                      ) [OneAddopTerm]
+                                                      AddopTerm(
+                                                        AddopPlus(
+                                                        ) [AddopPlus]
+                                                        OneMulopFactor(
+                                                          FactorNumConst(
+                                                           1
+                                                          ) [FactorNumConst]
+                                                        ) [OneMulopFactor]
+                                                      ) [AddopTerm]
+                                                    ) [AddopTerminalList]
+                                                  ) [ExprPositive]
+                                                ) [DesignatorExpr]
+                                              ) [DesignatorStatementStatement]
+                                            ) [StmList]
+                                            IfElseStatement(
+                                              Condition(
+                                                ConditionTermList(
+                                                  OneCondTerm(
+                                                    CondTerm(
+                                                      OneConditionFact(
+                                                        CondFactNoRelop(
+                                                          ExprPositive(
+                                                            OneAddopTerm(
+                                                              OneMulopFactor(
+                                                                FactorDesignator(
+                                                                  NoIdentOrExprList(
+                                                                   verify
+                                                                  ) [NoIdentOrExprList]
+                                                                  FuncParen(
+                                                                  ) [FuncParen]
+                                                                ) [FactorDesignator]
+                                                              ) [OneMulopFactor]
+                                                            ) [OneAddopTerm]
+                                                          ) [ExprPositive]
+                                                        ) [CondFactNoRelop]
+                                                      ) [OneConditionFact]
+                                                    ) [CondTerm]
+                                                  ) [OneCondTerm]
+                                                  CondTerm(
+                                                    OneConditionFact(
+                                                      CondFactRelop(
+                                                        ExprPositive(
+                                                          OneAddopTerm(
+                                                            OneMulopFactor(
+                                                              FactorDesignator(
+                                                                IdentOrExprL(
+                                                                  NoIdentOrExprList(
+                                                                   niz
+                                                                  ) [NoIdentOrExprList]
+                                                                  IdentOrExprExpr(
+                                                                    ExprPositive(
+                                                                      OneAddopTerm(
+                                                                        OneMulopFactor(
+                                                                          FactorNumConst(
+                                                                           2
+                                                                          ) [FactorNumConst]
+                                                                        ) [OneMulopFactor]
+                                                                      ) [OneAddopTerm]
+                                                                    ) [ExprPositive]
+                                                                  ) [IdentOrExprExpr]
+                                                                ) [IdentOrExprL]
+                                                                NoFunc(
+                                                                ) [NoFunc]
+                                                              ) [FactorDesignator]
+                                                            ) [OneMulopFactor]
+                                                          ) [OneAddopTerm]
+                                                        ) [ExprPositive]
+                                                        RelopEqual(
+                                                        ) [RelopEqual]
+                                                        ExprPositive(
+                                                          OneAddopTerm(
+                                                            OneMulopFactor(
+                                                              FactorNumConst(
+                                                               4
+                                                              ) [FactorNumConst]
+                                                            ) [OneMulopFactor]
+                                                          ) [OneAddopTerm]
+                                                        ) [ExprPositive]
+                                                      ) [CondFactRelop]
+                                                    ) [OneConditionFact]
+                                                  ) [CondTerm]
+                                                ) [ConditionTermList]
+                                              ) [Condition]
+                                              PrintStatement(
+                                                ExprPositive(
+                                                  OneAddopTerm(
+                                                    OneMulopFactor(
+                                                      FactorDesignator(
+                                                        NoIdentOrExprList(
+                                                         ord
+                                                        ) [NoIdentOrExprList]
+                                                        FuncArg(
+                                                          OneExpr(
+                                                            ExprPositive(
+                                                              OneAddopTerm(
+                                                                OneMulopFactor(
+                                                                  FactorCharConst(
+                                                                   'A'
+                                                                  ) [FactorCharConst]
+                                                                ) [OneMulopFactor]
+                                                              ) [OneAddopTerm]
+                                                            ) [ExprPositive]
+                                                          ) [OneExpr]
+                                                        ) [FuncArg]
+                                                      ) [FactorDesignator]
+                                                    ) [OneMulopFactor]
+                                                  ) [OneAddopTerm]
+                                                ) [ExprPositive]
+                                              ) [PrintStatement]
+                                              ElseStm(
+                                                PrintStatement(
+                                                  ExprPositive(
+                                                    OneAddopTerm(
+                                                      OneMulopFactor(
+                                                        FactorDesignator(
+                                                          NoIdentOrExprList(
+                                                           ord
+                                                          ) [NoIdentOrExprList]
+                                                          FuncArg(
+                                                            OneExpr(
+                                                              ExprPositive(
+                                                                OneAddopTerm(
+                                                                  OneMulopFactor(
+                                                                    FactorCharConst(
+                                                                     'a'
+                                                                    ) [FactorCharConst]
+                                                                  ) [OneMulopFactor]
+                                                                ) [OneAddopTerm]
+                                                              ) [ExprPositive]
+                                                            ) [OneExpr]
+                                                          ) [FuncArg]
+                                                        ) [FactorDesignator]
+                                                      ) [OneMulopFactor]
+                                                    ) [OneAddopTerm]
+                                                  ) [ExprPositive]
+                                                ) [PrintStatement]
+                                              ) [ElseStm]
+                                            ) [IfElseStatement]
+                                          ) [StmList]
+                                          PrintStatement(
+                                            ExprPositive(
+                                              OneAddopTerm(
+                                                OneMulopFactor(
+                                                  FactorDesignator(
+                                                    NoIdentOrExprList(
+                                                     eol
+                                                    ) [NoIdentOrExprList]
+                                                    NoFunc(
+                                                    ) [NoFunc]
+                                                  ) [FactorDesignator]
+                                                ) [OneMulopFactor]
+                                              ) [OneAddopTerm]
+                                            ) [ExprPositive]
+                                          ) [PrintStatement]
+                                        ) [StmList]
+                                        DesignatorStatementStatement(
+                                          DesignatorExpr(
+                                            NoIdentOrExprList(
+                                             i
+                                            ) [NoIdentOrExprList]
+                                            AssignOp(
+                                            ) [AssignOp]
+                                            ExprPositive(
+                                              OneAddopTerm(
+                                                OneMulopFactor(
+                                                  FactorNumConst(
+                                                   0
+                                                  ) [FactorNumConst]
+                                                ) [OneMulopFactor]
+                                              ) [OneAddopTerm]
+                                            ) [ExprPositive]
+                                          ) [DesignatorExpr]
+                                        ) [DesignatorStatementStatement]
+                                      ) [StmList]
+                                      WhileStatement(
+                                        Condition(
+                                          OneCondTerm(
+                                            CondTerm(
+                                              OneConditionFact(
+                                                CondFactRelop(
+                                                  ExprPositive(
+                                                    OneAddopTerm(
+                                                      OneMulopFactor(
+                                                        FactorDesignator(
+                                                          NoIdentOrExprList(
+                                                           i
+                                                          ) [NoIdentOrExprList]
+                                                          NoFunc(
+                                                          ) [NoFunc]
+                                                        ) [FactorDesignator]
+                                                      ) [OneMulopFactor]
+                                                    ) [OneAddopTerm]
+                                                  ) [ExprPositive]
+                                                  RelopLT(
+                                                  ) [RelopLT]
+                                                  ExprPositive(
+                                                    OneAddopTerm(
+                                                      OneMulopFactor(
+                                                        FactorNumConst(
+                                                         10
+                                                        ) [FactorNumConst]
+                                                      ) [OneMulopFactor]
+                                                    ) [OneAddopTerm]
+                                                  ) [ExprPositive]
+                                                ) [CondFactRelop]
+                                              ) [OneConditionFact]
+                                            ) [CondTerm]
+                                          ) [OneCondTerm]
+                                        ) [Condition]
+                                        StatementListStatement(
+                                          StmList(
+                                            StmList(
+                                              StmList(
+                                                NoStatementList(
+                                                ) [NoStatementList]
+                                                IfElseStatement(
+                                                  Condition(
+                                                    OneCondTerm(
+                                                      CondTerm(
+                                                        OneConditionFact(
+                                                          CondFactRelop(
+                                                            ExprPositive(
+                                                              OneAddopTerm(
+                                                                OneMulopFactor(
+                                                                  FactorDesignator(
+                                                                    NoIdentOrExprList(
+                                                                     i
+                                                                    ) [NoIdentOrExprList]
+                                                                    NoFunc(
+                                                                    ) [NoFunc]
+                                                                  ) [FactorDesignator]
+                                                                ) [OneMulopFactor]
+                                                              ) [OneAddopTerm]
+                                                            ) [ExprPositive]
+                                                            RelopEqual(
+                                                            ) [RelopEqual]
+                                                            ExprPositive(
+                                                              OneAddopTerm(
+                                                                OneMulopFactor(
+                                                                  FactorNumConst(
+                                                                   3
+                                                                  ) [FactorNumConst]
+                                                                ) [OneMulopFactor]
+                                                              ) [OneAddopTerm]
+                                                            ) [ExprPositive]
+                                                          ) [CondFactRelop]
+                                                        ) [OneConditionFact]
+                                                      ) [CondTerm]
+                                                    ) [OneCondTerm]
+                                                  ) [Condition]
+                                                  StatementListStatement(
+                                                    StmList(
+                                                      StmList(
+                                                        NoStatementList(
+                                                        ) [NoStatementList]
+                                                        DesignatorStatementStatement(
+                                                          DesignatorInc(
+                                                            NoIdentOrExprList(
+                                                             i
+                                                            ) [NoIdentOrExprList]
+                                                          ) [DesignatorInc]
+                                                        ) [DesignatorStatementStatement]
+                                                      ) [StmList]
+                                                      ContinueStatement(
+                                                      ) [ContinueStatement]
+                                                    ) [StmList]
+                                                  ) [StatementListStatement]
+                                                  NoElse(
+                                                  ) [NoElse]
+                                                ) [IfElseStatement]
+                                              ) [StmList]
+                                              IfElseStatement(
+                                                Condition(
+                                                  OneCondTerm(
+                                                    CondTerm(
+                                                      OneConditionFact(
+                                                        CondFactRelop(
+                                                          ExprPositive(
+                                                            OneAddopTerm(
+                                                              OneMulopFactor(
+                                                                FactorDesignator(
+                                                                  NoIdentOrExprList(
+                                                                   i
+                                                                  ) [NoIdentOrExprList]
+                                                                  NoFunc(
+                                                                  ) [NoFunc]
+                                                                ) [FactorDesignator]
+                                                              ) [OneMulopFactor]
+                                                            ) [OneAddopTerm]
+                                                          ) [ExprPositive]
+                                                          RelopEqual(
+                                                          ) [RelopEqual]
+                                                          ExprPositive(
+                                                            OneAddopTerm(
+                                                              OneMulopFactor(
+                                                                FactorNumConst(
+                                                                 4
+                                                                ) [FactorNumConst]
+                                                              ) [OneMulopFactor]
+                                                            ) [OneAddopTerm]
+                                                          ) [ExprPositive]
+                                                        ) [CondFactRelop]
+                                                      ) [OneConditionFact]
+                                                    ) [CondTerm]
+                                                  ) [OneCondTerm]
+                                                ) [Condition]
+                                                BreakStatement(
+                                                ) [BreakStatement]
+                                                NoElse(
+                                                ) [NoElse]
+                                              ) [IfElseStatement]
+                                            ) [StmList]
+                                            DesignatorStatementStatement(
+                                              DesignatorExpr(
+                                                NoIdentOrExprList(
+                                                 i
+                                                ) [NoIdentOrExprList]
+                                                AssignOp(
+                                                ) [AssignOp]
+                                                ExprPositive(
+                                                  OneAddopTerm(
+                                                    OneMulopFactor(
+                                                      FactorDesignator(
+                                                        NoIdentOrExprList(
+                                                         inkrement
+                                                        ) [NoIdentOrExprList]
+                                                        FuncArg(
+                                                          ExpressionList(
+                                                            OneExpr(
+                                                              ExprPositive(
+                                                                OneAddopTerm(
+                                                                  OneMulopFactor(
+                                                                    FactorDesignator(
+                                                                      NoIdentOrExprList(
+                                                                       i
+                                                                      ) [NoIdentOrExprList]
+                                                                      NoFunc(
+                                                                      ) [NoFunc]
+                                                                    ) [FactorDesignator]
+                                                                  ) [OneMulopFactor]
+                                                                ) [OneAddopTerm]
+                                                              ) [ExprPositive]
+                                                            ) [OneExpr]
+                                                            ExprPositive(
+                                                              OneAddopTerm(
+                                                                OneMulopFactor(
+                                                                  FactorNumConst(
+                                                                   1
+                                                                  ) [FactorNumConst]
+                                                                ) [OneMulopFactor]
+                                                              ) [OneAddopTerm]
+                                                            ) [ExprPositive]
+                                                          ) [ExpressionList]
+                                                        ) [FuncArg]
+                                                      ) [FactorDesignator]
+                                                    ) [OneMulopFactor]
+                                                  ) [OneAddopTerm]
+                                                ) [ExprPositive]
+                                              ) [DesignatorExpr]
+                                            ) [DesignatorStatementStatement]
+                                          ) [StmList]
+                                        ) [StatementListStatement]
+                                      ) [WhileStatement]
+                                    ) [StmList]
+                                    IfElseStatement(
+                                      Condition(
+                                        OneCondTerm(
+                                          CondTerm(
+                                            ConditionFactList(
+                                              OneConditionFact(
+                                                CondFactRelop(
+                                                  ExprPositive(
+                                                    OneAddopTerm(
+                                                      OneMulopFactor(
+                                                        FactorDesignator(
+                                                          NoIdentOrExprList(
+                                                           i
+                                                          ) [NoIdentOrExprList]
+                                                          NoFunc(
+                                                          ) [NoFunc]
+                                                        ) [FactorDesignator]
+                                                      ) [OneMulopFactor]
+                                                    ) [OneAddopTerm]
+                                                  ) [ExprPositive]
+                                                  RelopEqual(
+                                                  ) [RelopEqual]
+                                                  ExprPositive(
+                                                    OneAddopTerm(
+                                                      OneMulopFactor(
+                                                        FactorNumConst(
+                                                         3
+                                                        ) [FactorNumConst]
+                                                      ) [OneMulopFactor]
+                                                    ) [OneAddopTerm]
+                                                  ) [ExprPositive]
+                                                ) [CondFactRelop]
+                                              ) [OneConditionFact]
+                                              CondFactNoRelop(
+                                                ExprPositive(
+                                                  OneAddopTerm(
+                                                    OneMulopFactor(
+                                                      FactorDesignator(
+                                                        NoIdentOrExprList(
+                                                         verify
+                                                        ) [NoIdentOrExprList]
+                                                        FuncParen(
+                                                        ) [FuncParen]
+                                                      ) [FactorDesignator]
+                                                    ) [OneMulopFactor]
+                                                  ) [OneAddopTerm]
+                                                ) [ExprPositive]
+                                              ) [CondFactNoRelop]
+                                            ) [ConditionFactList]
+                                          ) [CondTerm]
+                                        ) [OneCondTerm]
+                                      ) [Condition]
+                                      PrintStatement(
+                                        ExprNegative(
+                                          OneAddopTerm(
+                                            OneMulopFactor(
+                                              FactorNumConst(
+                                               4
+                                              ) [FactorNumConst]
+                                            ) [OneMulopFactor]
+                                          ) [OneAddopTerm]
+                                        ) [ExprNegative]
+                                      ) [PrintStatement]
+                                      ElseStm(
+                                        PrintStatement(
+                                          ExprPositive(
+                                            OneAddopTerm(
+                                              OneMulopFactor(
+                                                FactorNumConst(
+                                                 4
+                                                ) [FactorNumConst]
+                                              ) [OneMulopFactor]
+                                            ) [OneAddopTerm]
+                                          ) [ExprPositive]
+                                        ) [PrintStatement]
+                                      ) [ElseStm]
+                                    ) [IfElseStatement]
+                                  ) [StmList]
+                                  ReadStatement(
+                                    IdentOrExprL(
+                                      NoIdentOrExprList(
+                                       niz
+                                      ) [NoIdentOrExprList]
+                                      IdentOrExprExpr(
+                                        ExprPositive(
+                                          OneAddopTerm(
+                                            OneMulopFactor(
+                                              FactorNumConst(
+                                               0
+                                              ) [FactorNumConst]
+                                            ) [OneMulopFactor]
+                                          ) [OneAddopTerm]
+                                        ) [ExprPositive]
+                                      ) [IdentOrExprExpr]
+                                    ) [IdentOrExprL]
+                                  ) [ReadStatement]
+                                ) [StmList]
+                                ReadStatement(
+                                  IdentOrExprL(
+                                    NoIdentOrExprList(
+                                     niz
+                                    ) [NoIdentOrExprList]
+                                    IdentOrExprExpr(
+                                      ExprPositive(
+                                        OneAddopTerm(
+                                          OneMulopFactor(
+                                            FactorNumConst(
+                                             1
+                                            ) [FactorNumConst]
+                                          ) [OneMulopFactor]
+                                        ) [OneAddopTerm]
+                                      ) [ExprPositive]
+                                    ) [IdentOrExprExpr]
+                                  ) [IdentOrExprL]
+                                ) [ReadStatement]
+                              ) [StmList]
+                              ReadStatement(
+                                IdentOrExprL(
+                                  NoIdentOrExprList(
+                                   niz
+                                  ) [NoIdentOrExprList]
+                                  IdentOrExprExpr(
+                                    ExprPositive(
+                                      OneAddopTerm(
+                                        OneMulopFactor(
+                                          FactorNumConst(
+                                           2
+                                          ) [FactorNumConst]
+                                        ) [OneMulopFactor]
+                                      ) [OneAddopTerm]
+                                    ) [ExprPositive]
+                                  ) [IdentOrExprExpr]
+                                ) [IdentOrExprL]
+                              ) [ReadStatement]
+                            ) [StmList]
+                            PrintStatement(
+                              ExprPositive(
+                                OneAddopTerm(
+                                  OneMulopFactor(
+                                    FactorDesignator(
+                                      NoIdentOrExprList(
+                                       eol
+                                      ) [NoIdentOrExprList]
+                                      NoFunc(
+                                      ) [NoFunc]
+                                    ) [FactorDesignator]
+                                  ) [OneMulopFactor]
+                                ) [OneAddopTerm]
+                              ) [ExprPositive]
+                            ) [PrintStatement]
+                          ) [StmList]
+                          PrintStatement(
+                            ExprPositive(
+                              OneAddopTerm(
+                                OneMulopFactor(
+                                  FactorDesignator(
+                                    NoIdentOrExprList(
+                                     sum
+                                    ) [NoIdentOrExprList]
+                                    FuncArg(
+                                      ExpressionList(
+                                        OneExpr(
+                                          ExprPositive(
+                                            OneAddopTerm(
+                                              OneMulopFactor(
+                                                FactorDesignator(
+                                                  NoIdentOrExprList(
+                                                   sum
+                                                  ) [NoIdentOrExprList]
+                                                  FuncArg(
+                                                    ExpressionList(
+                                                      OneExpr(
+                                                        ExprPositive(
+                                                          OneAddopTerm(
+                                                            OneMulopFactor(
+                                                              FactorDesignator(
+                                                                IdentOrExprL(
+                                                                  NoIdentOrExprList(
+                                                                   niz
+                                                                  ) [NoIdentOrExprList]
+                                                                  IdentOrExprExpr(
+                                                                    ExprPositive(
+                                                                      OneAddopTerm(
+                                                                        OneMulopFactor(
+                                                                          FactorNumConst(
+                                                                           0
+                                                                          ) [FactorNumConst]
+                                                                        ) [OneMulopFactor]
+                                                                      ) [OneAddopTerm]
+                                                                    ) [ExprPositive]
+                                                                  ) [IdentOrExprExpr]
+                                                                ) [IdentOrExprL]
+                                                                NoFunc(
+                                                                ) [NoFunc]
+                                                              ) [FactorDesignator]
+                                                            ) [OneMulopFactor]
+                                                          ) [OneAddopTerm]
+                                                        ) [ExprPositive]
+                                                      ) [OneExpr]
+                                                      ExprPositive(
+                                                        OneAddopTerm(
+                                                          OneMulopFactor(
+                                                            FactorDesignator(
+                                                              IdentOrExprL(
+                                                                NoIdentOrExprList(
+                                                                 niz
+                                                                ) [NoIdentOrExprList]
+                                                                IdentOrExprExpr(
+                                                                  ExprPositive(
+                                                                    OneAddopTerm(
+                                                                      OneMulopFactor(
+                                                                        FactorNumConst(
+                                                                         1
+                                                                        ) [FactorNumConst]
+                                                                      ) [OneMulopFactor]
+                                                                    ) [OneAddopTerm]
+                                                                  ) [ExprPositive]
+                                                                ) [IdentOrExprExpr]
+                                                              ) [IdentOrExprL]
+                                                              NoFunc(
+                                                              ) [NoFunc]
+                                                            ) [FactorDesignator]
+                                                          ) [OneMulopFactor]
+                                                        ) [OneAddopTerm]
+                                                      ) [ExprPositive]
+                                                    ) [ExpressionList]
+                                                  ) [FuncArg]
+                                                ) [FactorDesignator]
+                                              ) [OneMulopFactor]
+                                            ) [OneAddopTerm]
+                                          ) [ExprPositive]
+                                        ) [OneExpr]
+                                        ExprPositive(
+                                          OneAddopTerm(
+                                            OneMulopFactor(
+                                              FactorDesignator(
+                                                IdentOrExprL(
+                                                  NoIdentOrExprList(
+                                                   niz
+                                                  ) [NoIdentOrExprList]
+                                                  IdentOrExprExpr(
+                                                    ExprPositive(
+                                                      OneAddopTerm(
+                                                        OneMulopFactor(
+                                                          FactorNumConst(
+                                                           2
+                                                          ) [FactorNumConst]
+                                                        ) [OneMulopFactor]
+                                                      ) [OneAddopTerm]
+                                                    ) [ExprPositive]
+                                                  ) [IdentOrExprExpr]
+                                                ) [IdentOrExprL]
+                                                NoFunc(
+                                                ) [NoFunc]
+                                              ) [FactorDesignator]
+                                            ) [OneMulopFactor]
+                                          ) [OneAddopTerm]
+                                        ) [ExprPositive]
+                                      ) [ExpressionList]
+                                    ) [FuncArg]
+                                  ) [FactorDesignator]
+                                ) [OneMulopFactor]
+                              ) [OneAddopTerm]
+                            ) [ExprPositive]
+                          ) [PrintStatement]
+                        ) [StmList]
+                        PrintStatement(
+                          ExprPositive(
+                            OneAddopTerm(
+                              OneMulopFactor(
+                                FactorDesignator(
+                                  NoIdentOrExprList(
+                                   eol
+                                  ) [NoIdentOrExprList]
+                                  NoFunc(
+                                  ) [NoFunc]
+                                ) [FactorDesignator]
+                              ) [OneMulopFactor]
+                            ) [OneAddopTerm]
+                          ) [ExprPositive]
+                        ) [PrintStatement]
+                      ) [StmList]
+                      PrintStatement(
+                        ExprPositive(
+                          OneAddopTerm(
+                            OneMulopFactor(
+                              FactorDesignator(
+                                NoIdentOrExprList(
+                                 inkrement
+                                ) [NoIdentOrExprList]
+                                FuncArg(
+                                  ExpressionList(
+                                    OneExpr(
+                                      ExprPositive(
+                                        OneAddopTerm(
+                                          OneMulopFactor(
+                                            FactorDesignator(
+                                              IdentOrExprL(
+                                                NoIdentOrExprList(
+                                                 niz
+                                                ) [NoIdentOrExprList]
+                                                IdentOrExprExpr(
+                                                  ExprPositive(
+                                                    OneAddopTerm(
+                                                      OneMulopFactor(
+                                                        FactorNumConst(
+                                                         2
+                                                        ) [FactorNumConst]
+                                                      ) [OneMulopFactor]
+                                                    ) [OneAddopTerm]
+                                                  ) [ExprPositive]
+                                                ) [IdentOrExprExpr]
+                                              ) [IdentOrExprL]
+                                              NoFunc(
+                                              ) [NoFunc]
+                                            ) [FactorDesignator]
+                                          ) [OneMulopFactor]
+                                        ) [OneAddopTerm]
+                                      ) [ExprPositive]
+                                    ) [OneExpr]
+                                    ExprPositive(
+                                      OneAddopTerm(
+                                        OneMulopFactor(
+                                          FactorNumConst(
+                                           2
+                                          ) [FactorNumConst]
+                                        ) [OneMulopFactor]
+                                      ) [OneAddopTerm]
+                                    ) [ExprPositive]
+                                  ) [ExpressionList]
+                                ) [FuncArg]
+                              ) [FactorDesignator]
+                            ) [OneMulopFactor]
+                          ) [OneAddopTerm]
+                        ) [ExprPositive]
+                      ) [PrintStatement]
+                    ) [StmList]
+                    DesignatorStatementStatement(
+                      DesignatorExpr(
+                        NoIdentOrExprList(
+                         a
+                        ) [NoIdentOrExprList]
+                        AssignOp(
+                        ) [AssignOp]
+                        ExprPositive(
+                          OneAddopTerm(
+                            OneMulopFactor(
+                              FactorNumConst(
+                               3
+                              ) [FactorNumConst]
+                            ) [OneMulopFactor]
+                          ) [OneAddopTerm]
+                        ) [ExprPositive]
+                      ) [DesignatorExpr]
+                    ) [DesignatorStatementStatement]
+                  ) [StmList]
+                  DesignatorStatementStatement(
+                    DesignatorExpr(
+                      NoIdentOrExprList(
+                       i
+                      ) [NoIdentOrExprList]
+                      AssignOp(
+                      ) [AssignOp]
+                      ExprPositive(
+                        OneAddopTerm(
+                          OneMulopFactor(
+                            FactorNumConst(
+                             0
+                            ) [FactorNumConst]
+                          ) [OneMulopFactor]
+                        ) [OneAddopTerm]
+                      ) [ExprPositive]
+                    ) [DesignatorExpr]
+                  ) [DesignatorStatementStatement]
+                ) [StmList]
+                WhileStatement(
+                  Condition(
+                    OneCondTerm(
+                      CondTerm(
+                        OneConditionFact(
+                          CondFactRelop(
+                            ExprPositive(
+                              OneAddopTerm(
+                                OneMulopFactor(
+                                  FactorDesignator(
+                                    NoIdentOrExprList(
+                                     i
+                                    ) [NoIdentOrExprList]
+                                    NoFunc(
+                                    ) [NoFunc]
+                                  ) [FactorDesignator]
+                                ) [OneMulopFactor]
+                              ) [OneAddopTerm]
+                            ) [ExprPositive]
+                            RelopLT(
+                            ) [RelopLT]
+                            ExprPositive(
+                              OneAddopTerm(
+                                OneMulopFactor(
+                                  FactorNumConst(
+                                   3
+                                  ) [FactorNumConst]
+                                ) [OneMulopFactor]
+                              ) [OneAddopTerm]
+                            ) [ExprPositive]
+                          ) [CondFactRelop]
+                        ) [OneConditionFact]
+                      ) [CondTerm]
+                    ) [OneCondTerm]
+                  ) [Condition]
+                  StatementListStatement(
+                    StmList(
+                      StmList(
+                        NoStatementList(
+                        ) [NoStatementList]
+                        DesignatorStatementStatement(
+                          DesignatorExpr(
+                            IdentOrExprL(
+                              NoIdentOrExprList(
+                               niz
+                              ) [NoIdentOrExprList]
+                              IdentOrExprExpr(
+                                ExprPositive(
+                                  OneAddopTerm(
+                                    OneMulopFactor(
+                                      FactorDesignator(
+                                        NoIdentOrExprList(
+                                         i
+                                        ) [NoIdentOrExprList]
+                                        NoFunc(
+                                        ) [NoFunc]
+                                      ) [FactorDesignator]
+                                    ) [OneMulopFactor]
+                                  ) [OneAddopTerm]
+                                ) [ExprPositive]
+                              ) [IdentOrExprExpr]
+                            ) [IdentOrExprL]
+                            AssignOp(
+                            ) [AssignOp]
+                            ExprPositive(
+                              OneAddopTerm(
+                                MulopFactList(
+                                  MulopFactList(
+                                    OneMulopFactor(
+                                      FactorDesignator(
+                                        IdentOrExprL(
+                                          NoIdentOrExprList(
+                                           niz
+                                          ) [NoIdentOrExprList]
+                                          IdentOrExprExpr(
+                                            ExprPositive(
+                                              OneAddopTerm(
+                                                OneMulopFactor(
+                                                  FactorDesignator(
+                                                    NoIdentOrExprList(
+                                                     i
+                                                    ) [NoIdentOrExprList]
+                                                    NoFunc(
+                                                    ) [NoFunc]
+                                                  ) [FactorDesignator]
+                                                ) [OneMulopFactor]
+                                              ) [OneAddopTerm]
+                                            ) [ExprPositive]
+                                          ) [IdentOrExprExpr]
+                                        ) [IdentOrExprL]
+                                        NoFunc(
+                                        ) [NoFunc]
+                                      ) [FactorDesignator]
+                                    ) [OneMulopFactor]
+                                    MulopFactor(
+                                      MulopMul(
+                                      ) [MulopMul]
+                                      FactorNumConst(
+                                       2
+                                      ) [FactorNumConst]
+                                    ) [MulopFactor]
+                                  ) [MulopFactList]
+                                  MulopFactor(
+                                    MulopMul(
+                                    ) [MulopMul]
+                                    FactorDesignator(
+                                      NoIdentOrExprList(
+                                       a
+                                      ) [NoIdentOrExprList]
+                                      NoFunc(
+                                      ) [NoFunc]
+                                    ) [FactorDesignator]
+                                  ) [MulopFactor]
+                                ) [MulopFactList]
+                              ) [OneAddopTerm]
+                            ) [ExprPositive]
+                          ) [DesignatorExpr]
+                        ) [DesignatorStatementStatement]
+                      ) [StmList]
+                      DesignatorStatementStatement(
+                        DesignatorInc(
+                          NoIdentOrExprList(
+                           i
+                          ) [NoIdentOrExprList]
+                        ) [DesignatorInc]
+                      ) [DesignatorStatementStatement]
+                    ) [StmList]
+                  ) [StatementListStatement]
+                ) [WhileStatement]
+              ) [StmList]
+              DesignatorStatementStatement(
+                DesignatorExpr(
+                  IdentOrExprL(
+                    NoIdentOrExprList(
+                     niz
+                    ) [NoIdentOrExprList]
+                    IdentOrExprExpr(
+                      ExprPositive(
+                        OneAddopTerm(
+                          OneMulopFactor(
+                            FactorNumConst(
+                             1
+                            ) [FactorNumConst]
+                          ) [OneMulopFactor]
+                        ) [OneAddopTerm]
+                      ) [ExprPositive]
+                    ) [IdentOrExprExpr]
+                  ) [IdentOrExprL]
+                  AssignOp(
+                  ) [AssignOp]
+                  ExprPositive(
+                    OneAddopTerm(
+                      OneMulopFactor(
+                        FactorNumConst(
+                         6
+                        ) [FactorNumConst]
+                      ) [OneMulopFactor]
+                    ) [OneAddopTerm]
+                  ) [ExprPositive]
+                ) [DesignatorExpr]
+              ) [DesignatorStatementStatement]
+            ) [StmList]
+            ForEachStatment(
+              NoIdentOrExprList(
+               niz
+              ) [NoIdentOrExprList]
+             curr
+              PrintStatement(
+                ExprPositive(
+                  OneAddopTerm(
+                    OneMulopFactor(
+                      FactorDesignator(
+                        NoIdentOrExprList(
+                         curr
+                        ) [NoIdentOrExprList]
+                        NoFunc(
+                        ) [NoFunc]
+                      ) [FactorDesignator]
+                    ) [OneMulopFactor]
+                  ) [OneAddopTerm]
+                ) [ExprPositive]
+              ) [PrintStatement]
+            ) [ForEachStatment]
+          ) [StmList]
+          FindAndReplaceStatement(
+            NoIdentOrExprList(
+             niz2
+            ) [NoIdentOrExprList]
+            AssignOp(
+            ) [AssignOp]
+            NoIdentOrExprList(
+             niz
+            ) [NoIdentOrExprList]
+            ExprPositive(
+              AddopTerminalList(
+                OneAddopTerm(
+                  OneMulopFactor(
+                    FactorDesignator(
+                      NoIdentOrExprList(
+                       jedan
+                      ) [NoIdentOrExprList]
+                      NoFunc(
+                      ) [NoFunc]
+                    ) [FactorDesignator]
+                  ) [OneMulopFactor]
+                ) [OneAddopTerm]
+                AddopTerm(
+                  AddopPlus(
+                  ) [AddopPlus]
+                  OneMulopFactor(
+                    FactorNumConst(
+                     5
+                    ) [FactorNumConst]
+                  ) [OneMulopFactor]
+                ) [AddopTerm]
+              ) [AddopTerminalList]
+            ) [ExprPositive]
+           curr
+            ExprPositive(
+              OneAddopTerm(
+                MulopFactList(
+                  OneMulopFactor(
+                    FactorDesignator(
+                      NoIdentOrExprList(
+                       curr
+                      ) [NoIdentOrExprList]
+                      NoFunc(
+                      ) [NoFunc]
+                    ) [FactorDesignator]
+                  ) [OneMulopFactor]
+                  MulopFactor(
+                    MulopMul(
+                    ) [MulopMul]
+                    FactorNumConst(
+                     3
+                    ) [FactorNumConst]
+                  ) [MulopFactor]
+                ) [MulopFactList]
+              ) [OneAddopTerm]
+            ) [ExprPositive]
+          ) [FindAndReplaceStatement]
+        ) [StmList]
+        ForEachStatment(
+          NoIdentOrExprList(
+           niz2
+          ) [NoIdentOrExprList]
+         curr
+          PrintStatement(
+            ExprPositive(
+              OneAddopTerm(
+                OneMulopFactor(
+                  FactorDesignator(
+                    NoIdentOrExprList(
+                     curr
+                    ) [NoIdentOrExprList]
+                    NoFunc(
+                    ) [NoFunc]
+                  ) [FactorDesignator]
+                ) [OneMulopFactor]
+              ) [OneAddopTerm]
+            ) [ExprPositive]
+          ) [PrintStatement]
+        ) [ForEachStatment]
+      ) [StmList]
+    ) [MethodDecl]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  04:51:46,319 - ===================================
+INFO  04:51:46,324 -  Print count calls = 16
+INFO  04:51:46,324 -  Deklarisanih promenljivih ima = 6

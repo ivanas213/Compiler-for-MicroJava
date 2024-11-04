@@ -1,0 +1,194 @@
+INFO  15:54:47,380 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  15:54:47,500 - #34 program
+INFO  15:54:47,500 - #44 MJProgram
+INFO  15:54:47,500 - #44 int
+INFO  15:54:47,502 - #44 x
+INFO  15:54:47,505 - #41 ;
+INFO  15:54:47,509 - #44 int
+INFO  15:54:47,510 - #44 y
+INFO  15:54:47,512 - #41 ;
+INFO  15:54:47,512 - #24 {
+INFO  15:54:47,512 - #44 int
+INFO  15:54:47,512 - #44 main
+INFO  15:54:47,512 - #26 (
+INFO  15:54:47,514 - #40 )
+INFO  15:54:47,515 - #24 {
+INFO  15:54:47,516 - #44 y
+INFO  15:54:47,517 - #4 =
+INFO  15:54:47,517 - #45 2
+INFO  15:54:47,518 - #41 ;
+INFO  15:54:47,522 - #44 x
+INFO  15:54:47,522 - #4 =
+INFO  15:54:47,523 - #44 y
+INFO  15:54:47,523 - #48 +
+INFO  15:54:47,524 - #45 2
+INFO  15:54:47,526 - #41 ;
+INFO  15:54:47,526 - #39 return
+INFO  15:54:47,526 - #45 0
+INFO  15:54:47,527 - #41 ;
+INFO  15:54:47,527 - #36 }
+INFO  15:54:47,527 - #36 }
+INFO  15:54:47,537 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationList(
+    DeclarationList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      VarDeclaration(
+        VarDecl(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+          OneIdent(
+            Ident(
+             x
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        OneIdent(
+          Ident(
+           y
+            NoBrackets(
+            ) [NoBrackets]
+          ) [Ident]
+        ) [OneIdent]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodNoVoid(
+        Type(
+         int
+        ) [Type]
+      ) [MethodNoVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StmList(
+        StmList(
+          StmList(
+            NoStatementList(
+            ) [NoStatementList]
+            DesignatorStatementStatement(
+              DesignatorExpress(
+                NoIdentOrExprList(
+                 y
+                ) [NoIdentOrExprList]
+                AssignOp(
+                ) [AssignOp]
+                DesignatorExpr(
+                  Expr(
+                    OneAddopTerm(
+                      Term(
+                        OneMulopFactor(
+                          FactorNumConst(
+                           2
+                          ) [FactorNumConst]
+                        ) [OneMulopFactor]
+                      ) [Term]
+                    ) [OneAddopTerm]
+                  ) [Expr]
+                ) [DesignatorExpr]
+              ) [DesignatorExpress]
+            ) [DesignatorStatementStatement]
+          ) [StmList]
+          DesignatorStatementStatement(
+            DesignatorExpress(
+              NoIdentOrExprList(
+               x
+              ) [NoIdentOrExprList]
+              AssignOp(
+              ) [AssignOp]
+              DesignatorExpr(
+                Expr(
+                  AddopTerminalList(
+                    OneAddopTerm(
+                      Term(
+                        OneMulopFactor(
+                          FactorDesignator(
+                            NoIdentOrExprList(
+                             y
+                            ) [NoIdentOrExprList]
+                            NoFunc(
+                            ) [NoFunc]
+                          ) [FactorDesignator]
+                        ) [OneMulopFactor]
+                      ) [Term]
+                    ) [OneAddopTerm]
+                    AddopTerm(
+                      AddopPlus(
+                       +
+                      ) [AddopPlus]
+                      Term(
+                        OneMulopFactor(
+                          FactorNumConst(
+                           2
+                          ) [FactorNumConst]
+                        ) [OneMulopFactor]
+                      ) [Term]
+                    ) [AddopTerm]
+                  ) [AddopTerminalList]
+                ) [Expr]
+              ) [DesignatorExpr]
+            ) [DesignatorExpress]
+          ) [DesignatorStatementStatement]
+        ) [StmList]
+        ReturnExprStatement(
+          Expr(
+            OneAddopTerm(
+              Term(
+                OneMulopFactor(
+                  FactorNumConst(
+                   0
+                  ) [FactorNumConst]
+                ) [OneMulopFactor]
+              ) [Term]
+            ) [OneAddopTerm]
+          ) [Expr]
+        ) [ReturnExprStatement]
+      ) [StmList]
+    ) [MethodDecl]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  15:54:47,537 - ===================================
+INFO  15:54:47,542 - Postavljeno je ime varijable na x na liniji 2
+INFO  15:54:47,542 - Dodata je globalna varijabla x 1 na liniji 2
+INFO  15:54:47,542 - Postavljeno je ime varijable na y na liniji 2
+INFO  15:54:47,543 - Dodata je globalna varijabla y 1 na liniji 2
+INFO  15:54:47,543 - Dodat je metod main 1 na liniji 6
+INFO  15:54:47,543 - Prvi deo designatora y na liniji 7
+INFO  15:54:47,543 - Postavljen mulop factor tip 1 na liniji 7
+INFO  15:54:47,543 - Designator express na liniji 7
+INFO  15:54:47,543 - Prvi deo designatora x na liniji 8
+INFO  15:54:47,543 - Prvi deo designatora y na liniji 8
+INFO  15:54:47,543 - Postavljen factor designator tip 1 na liniji 8
+INFO  15:54:47,543 - Postavljen mulop factor tip 1 na liniji 8
+INFO  15:54:47,543 - Postavljen mulop factor tip 1 na liniji 8
+INFO  15:54:47,544 - Designator express na liniji 8
+INFO  15:54:47,544 - Postavljen mulop factor tip 1 na liniji 9
+INFO  15:54:47,544 -  Print count calls = 0
+INFO  15:54:47,544 -  Deklarisanih promenljivih ima = 0
+INFO  15:54:47,544 - ===================================
+INFO  15:54:47,549 - Parsiranje uspesno zavrseno!

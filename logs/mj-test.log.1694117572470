@@ -1,0 +1,362 @@
+INFO  22:12:48,261 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  22:12:48,369 - #36 program
+INFO  22:12:48,370 - #46 MJProgram
+INFO  22:12:48,370 - #46 int
+INFO  22:12:48,372 - #46 x
+INFO  22:12:48,373 - #43 ;
+INFO  22:12:48,376 - #46 int
+INFO  22:12:48,377 - #46 y
+INFO  22:12:48,377 - #43 ;
+INFO  22:12:48,377 - #24 {
+INFO  22:12:48,378 - #46 int
+INFO  22:12:48,379 - #46 k
+INFO  22:12:48,379 - #26 (
+INFO  22:12:48,380 - #42 )
+INFO  22:12:48,381 - #46 int
+INFO  22:12:48,382 - #46 c
+INFO  22:12:48,383 - #43 ;
+INFO  22:12:48,383 - #24 {
+INFO  22:12:48,383 - #46 c
+INFO  22:12:48,384 - #4 =
+INFO  22:12:48,384 - #47 1
+INFO  22:12:48,386 - #43 ;
+INFO  22:12:48,389 - #41 return
+INFO  22:12:48,390 - #47 2
+INFO  22:12:48,390 - #43 ;
+INFO  22:12:48,390 - #38 }
+INFO  22:12:48,390 - #46 int
+INFO  22:12:48,391 - #46 main
+INFO  22:12:48,391 - #26 (
+INFO  22:12:48,392 - #42 )
+INFO  22:12:48,392 - #24 {
+INFO  22:12:48,392 - #46 y
+INFO  22:12:48,392 - #4 =
+INFO  22:12:48,392 - #47 2
+INFO  22:12:48,392 - #43 ;
+INFO  22:12:48,392 - #46 x
+INFO  22:12:48,392 - #4 =
+INFO  22:12:48,392 - #46 y
+INFO  22:12:48,392 - #34 +
+INFO  22:12:48,393 - #47 2
+INFO  22:12:48,395 - #43 ;
+INFO  22:12:48,396 - #46 y
+INFO  22:12:48,396 - #4 =
+INFO  22:12:48,396 - #46 k
+INFO  22:12:48,396 - #26 (
+INFO  22:12:48,396 - #42 )
+INFO  22:12:48,396 - #34 +
+INFO  22:12:48,397 - #47 3
+INFO  22:12:48,397 - #43 ;
+INFO  22:12:48,398 - #35 print
+INFO  22:12:48,398 - #26 (
+INFO  22:12:48,398 - #46 y
+INFO  22:12:48,398 - #42 )
+INFO  22:12:48,398 - #43 ;
+INFO  22:12:48,398 - #41 return
+INFO  22:12:48,398 - #47 0
+INFO  22:12:48,398 - #43 ;
+INFO  22:12:48,398 - #38 }
+INFO  22:12:48,398 - #38 }
+INFO  22:12:48,404 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationList(
+    DeclarationList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      VarDeclaration(
+        VarDecl(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+          OneIdent(
+            Ident(
+             x
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        OneIdent(
+          Ident(
+           y
+            NoBrackets(
+            ) [NoBrackets]
+          ) [Ident]
+        ) [OneIdent]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    MethodDeclarationList(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodNoVoid(
+          Type(
+           int
+          ) [Type]
+        ) [MethodNoVoid]
+        MethodName(
+         k
+        ) [MethodName]
+        NoFormPars(
+        ) [NoFormPars]
+        VarDeclarationList(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDecl(
+            VarType(
+              Type(
+               int
+              ) [Type]
+            ) [VarType]
+            OneIdent(
+              Ident(
+               c
+                NoBrackets(
+                ) [NoBrackets]
+              ) [Ident]
+            ) [OneIdent]
+          ) [VarDecl]
+        ) [VarDeclarationList]
+        StmList(
+          StmList(
+            NoStatementList(
+            ) [NoStatementList]
+            DesignatorStatementStatement(
+              DesignatorExpress(
+                NoIdentOrExprList(
+                 c
+                ) [NoIdentOrExprList]
+                AssignOp(
+                ) [AssignOp]
+                DesignatorExpr(
+                  Expr(
+                    OneAddopTerm(
+                      Term(
+                        OneMulopFactor(
+                          FactorNumConst(
+                           1
+                          ) [FactorNumConst]
+                        ) [OneMulopFactor]
+                      ) [Term]
+                    ) [OneAddopTerm]
+                  ) [Expr]
+                ) [DesignatorExpr]
+              ) [DesignatorExpress]
+            ) [DesignatorStatementStatement]
+          ) [StmList]
+          ReturnExprStatement(
+            Expr(
+              OneAddopTerm(
+                Term(
+                  OneMulopFactor(
+                    FactorNumConst(
+                     2
+                    ) [FactorNumConst]
+                  ) [OneMulopFactor]
+                ) [Term]
+              ) [OneAddopTerm]
+            ) [Expr]
+          ) [ReturnExprStatement]
+        ) [StmList]
+      ) [MethodDecl]
+    ) [MethodDeclarationList]
+    MethodDecl(
+      MethodNoVoid(
+        Type(
+         int
+        ) [Type]
+      ) [MethodNoVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StmList(
+        StmList(
+          StmList(
+            StmList(
+              StmList(
+                NoStatementList(
+                ) [NoStatementList]
+                DesignatorStatementStatement(
+                  DesignatorExpress(
+                    NoIdentOrExprList(
+                     y
+                    ) [NoIdentOrExprList]
+                    AssignOp(
+                    ) [AssignOp]
+                    DesignatorExpr(
+                      Expr(
+                        OneAddopTerm(
+                          Term(
+                            OneMulopFactor(
+                              FactorNumConst(
+                               2
+                              ) [FactorNumConst]
+                            ) [OneMulopFactor]
+                          ) [Term]
+                        ) [OneAddopTerm]
+                      ) [Expr]
+                    ) [DesignatorExpr]
+                  ) [DesignatorExpress]
+                ) [DesignatorStatementStatement]
+              ) [StmList]
+              DesignatorStatementStatement(
+                DesignatorExpress(
+                  NoIdentOrExprList(
+                   x
+                  ) [NoIdentOrExprList]
+                  AssignOp(
+                  ) [AssignOp]
+                  DesignatorExpr(
+                    Expr(
+                      AddopTerminalList(
+                        OneAddopTerm(
+                          Term(
+                            OneMulopFactor(
+                              FactorDesignator(
+                                NoIdentOrExprList(
+                                 y
+                                ) [NoIdentOrExprList]
+                                NoFunc(
+                                ) [NoFunc]
+                              ) [FactorDesignator]
+                            ) [OneMulopFactor]
+                          ) [Term]
+                        ) [OneAddopTerm]
+                        AddopTerm(
+                          AddopPlus(
+                          ) [AddopPlus]
+                          Term(
+                            OneMulopFactor(
+                              FactorNumConst(
+                               2
+                              ) [FactorNumConst]
+                            ) [OneMulopFactor]
+                          ) [Term]
+                        ) [AddopTerm]
+                      ) [AddopTerminalList]
+                    ) [Expr]
+                  ) [DesignatorExpr]
+                ) [DesignatorExpress]
+              ) [DesignatorStatementStatement]
+            ) [StmList]
+            DesignatorStatementStatement(
+              DesignatorExpress(
+                NoIdentOrExprList(
+                 y
+                ) [NoIdentOrExprList]
+                AssignOp(
+                ) [AssignOp]
+                DesignatorExpr(
+                  Expr(
+                    AddopTerminalList(
+                      OneAddopTerm(
+                        Term(
+                          OneMulopFactor(
+                            FactorDesignator(
+                              NoIdentOrExprList(
+                               k
+                              ) [NoIdentOrExprList]
+                              FuncParen(
+                              ) [FuncParen]
+                            ) [FactorDesignator]
+                          ) [OneMulopFactor]
+                        ) [Term]
+                      ) [OneAddopTerm]
+                      AddopTerm(
+                        AddopPlus(
+                        ) [AddopPlus]
+                        Term(
+                          OneMulopFactor(
+                            FactorNumConst(
+                             3
+                            ) [FactorNumConst]
+                          ) [OneMulopFactor]
+                        ) [Term]
+                      ) [AddopTerm]
+                    ) [AddopTerminalList]
+                  ) [Expr]
+                ) [DesignatorExpr]
+              ) [DesignatorExpress]
+            ) [DesignatorStatementStatement]
+          ) [StmList]
+          PrintStatement(
+            Expr(
+              OneAddopTerm(
+                Term(
+                  OneMulopFactor(
+                    FactorDesignator(
+                      NoIdentOrExprList(
+                       y
+                      ) [NoIdentOrExprList]
+                      NoFunc(
+                      ) [NoFunc]
+                    ) [FactorDesignator]
+                  ) [OneMulopFactor]
+                ) [Term]
+              ) [OneAddopTerm]
+            ) [Expr]
+          ) [PrintStatement]
+        ) [StmList]
+        ReturnExprStatement(
+          Expr(
+            OneAddopTerm(
+              Term(
+                OneMulopFactor(
+                  FactorNumConst(
+                   0
+                  ) [FactorNumConst]
+                ) [OneMulopFactor]
+              ) [Term]
+            ) [OneAddopTerm]
+          ) [Expr]
+        ) [ReturnExprStatement]
+      ) [StmList]
+    ) [MethodDecl]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  22:12:48,404 - ===================================
+INFO  22:12:48,408 - Postavljen je tip varijable na 1 na liniji 2
+INFO  22:12:48,408 - Postavljeno je ime varijable na x na liniji 2
+INFO  22:12:48,408 - Dodata je globalna varijabla x 1 na liniji 2
+INFO  22:12:48,408 - Postavljen je tip varijable na 1 na liniji 2
+INFO  22:12:48,408 - Postavljeno je ime varijable na y na liniji 2
+INFO  22:12:48,408 - Dodata je globalna varijabla y 1 na liniji 2
+INFO  22:12:48,409 - Dodat je metod k 1 na liniji 5
+INFO  22:12:48,409 - Postavljen je tip varijable na 1 na liniji 5
+INFO  22:12:48,409 - Postavljeno je ime varijable na c na liniji 5
+INFO  22:12:48,409 - Dodata je lokalna varijabla c 1 na liniji 5
+ERROR 22:12:48,409 - Semanticka greska na liniji 5: funkcija k nema return iskaz! na liniji 5
+INFO  22:12:48,409 - Dodat je metod main 1 na liniji 10
+ERROR 22:12:48,409 - Greska: Nisu svi faktori izraza int na liniji 12
+ERROR 22:12:48,409 - Greska: Tip nije int na liniji 12
+ERROR 22:12:48,409 - Greska: Expr tip nije broj! na liniji 12
+ERROR 22:12:48,409 - Greska: Nisu svi faktori izraza int na liniji 13
+ERROR 22:12:48,409 - Greska: Tip nije int na liniji 13
+ERROR 22:12:48,409 - Greska: Expr tip nije broj! na liniji 13
+ERROR 22:12:48,409 - Greska: Nije odgovarajuci tip leve oznake na liniji 13
+ERROR 22:12:48,409 - Greska: Nisu svi faktori izraza int na liniji 14
+ERROR 22:12:48,409 - Greska: Expr tip nije broj! na liniji 14
+ERROR 22:12:48,409 - Semanticka greska na liniji 10: funkcija main nema return iskaz! na liniji 10
+INFO  22:12:48,409 -  Print count calls = 0
+INFO  22:12:48,409 -  Deklarisanih promenljivih ima = 0
+INFO  22:12:48,409 - ===================================
+ERROR 22:12:48,410 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,169 @@
+INFO  00:57:50,755 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  00:57:50,849 - #34 program
+INFO  00:57:50,849 - #44 MJProgram
+INFO  00:57:50,849 - #44 int
+INFO  00:57:50,850 - #44 x
+INFO  00:57:50,851 - #41 ;
+INFO  00:57:50,854 - #44 int
+INFO  00:57:50,855 - #44 y
+INFO  00:57:50,855 - #41 ;
+INFO  00:57:50,855 - #24 {
+INFO  00:57:50,855 - #44 int
+INFO  00:57:50,860 - #44 main
+INFO  00:57:50,860 - #26 (
+INFO  00:57:50,862 - #40 )
+INFO  00:57:50,862 - #24 {
+INFO  00:57:50,863 - #44 y
+INFO  00:57:50,863 - #4 =
+INFO  00:57:50,863 - #45 2
+INFO  00:57:50,864 - #41 ;
+INFO  00:57:50,866 - #33 print
+INFO  00:57:50,867 - #26 (
+INFO  00:57:50,867 - #44 y
+INFO  00:57:50,867 - #40 )
+INFO  00:57:50,868 - #41 ;
+INFO  00:57:50,868 - #39 return
+INFO  00:57:50,868 - #45 0
+INFO  00:57:50,868 - #41 ;
+INFO  00:57:50,868 - #36 }
+INFO  00:57:50,868 - #36 }
+INFO  00:57:50,874 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationList(
+    DeclarationList(
+      NoDeclarations(
+      ) [NoDeclarations]
+      VarDeclaration(
+        VarDecl(
+          VarType(
+            Type(
+             int
+            ) [Type]
+          ) [VarType]
+          OneIdent(
+            Ident(
+             x
+              NoBrackets(
+              ) [NoBrackets]
+            ) [Ident]
+          ) [OneIdent]
+        ) [VarDecl]
+      ) [VarDeclaration]
+    ) [DeclarationList]
+    VarDeclaration(
+      VarDecl(
+        VarType(
+          Type(
+           int
+          ) [Type]
+        ) [VarType]
+        OneIdent(
+          Ident(
+           y
+            NoBrackets(
+            ) [NoBrackets]
+          ) [Ident]
+        ) [OneIdent]
+      ) [VarDecl]
+    ) [VarDeclaration]
+  ) [DeclarationList]
+  MethodDeclarationList(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodNoVoid(
+        Type(
+         int
+        ) [Type]
+      ) [MethodNoVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StmList(
+        StmList(
+          StmList(
+            NoStatementList(
+            ) [NoStatementList]
+            DesignatorStatementStatement(
+              DesignatorExpress(
+                NoIdentOrExprList(
+                 y
+                ) [NoIdentOrExprList]
+                AssignOp(
+                ) [AssignOp]
+                DesignatorExpr(
+                  Expr(
+                    OneAddopTerm(
+                      Term(
+                        OneMulopFactor(
+                          FactorNumConst(
+                           2
+                          ) [FactorNumConst]
+                        ) [OneMulopFactor]
+                      ) [Term]
+                    ) [OneAddopTerm]
+                  ) [Expr]
+                ) [DesignatorExpr]
+              ) [DesignatorExpress]
+            ) [DesignatorStatementStatement]
+          ) [StmList]
+          PrintStatement(
+            Expr(
+              OneAddopTerm(
+                Term(
+                  OneMulopFactor(
+                    FactorDesignator(
+                      NoIdentOrExprList(
+                       y
+                      ) [NoIdentOrExprList]
+                      NoFunc(
+                      ) [NoFunc]
+                    ) [FactorDesignator]
+                  ) [OneMulopFactor]
+                ) [Term]
+              ) [OneAddopTerm]
+            ) [Expr]
+            NoWide(
+            ) [NoWide]
+          ) [PrintStatement]
+        ) [StmList]
+        ReturnExprStatement(
+          Expr(
+            OneAddopTerm(
+              Term(
+                OneMulopFactor(
+                  FactorNumConst(
+                   0
+                  ) [FactorNumConst]
+                ) [OneMulopFactor]
+              ) [Term]
+            ) [OneAddopTerm]
+          ) [Expr]
+        ) [ReturnExprStatement]
+      ) [StmList]
+    ) [MethodDecl]
+  ) [MethodDeclarationList]
+) [Program]
+INFO  00:57:50,874 - ===================================
+INFO  00:57:50,878 - Postavljeno je ime varijable na x na liniji 2
+INFO  00:57:50,878 - Dodata je globalna varijabla x 1 na liniji 2
+INFO  00:57:50,878 - Postavljeno je ime varijable na y na liniji 2
+INFO  00:57:50,878 - Dodata je globalna varijabla y 1 na liniji 2
+INFO  00:57:50,878 - Dodat je metod main 1 na liniji 6
+INFO  00:57:50,878 - Prvi deo designatora y na liniji 7
+INFO  00:57:50,878 - Postavljen mulop factor tip 1 na liniji 7
+INFO  00:57:50,878 - Designator express na liniji 7
+INFO  00:57:50,878 - Prvi deo designatora y na liniji 8
+INFO  00:57:50,878 - Postavljen factor designator y na liniji 8
+INFO  00:57:50,878 - Postavljen mulop factor tip 1 na liniji 8
+INFO  00:57:50,878 - Print na liniji 8
+INFO  00:57:50,878 - Postavljen mulop factor tip 1 na liniji 9
+INFO  00:57:50,879 -  Print count calls = 0
+INFO  00:57:50,879 -  Deklarisanih promenljivih ima = 0
+INFO  00:57:50,879 - ===================================

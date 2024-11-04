@@ -1,0 +1,9 @@
+INFO  15:19:24,532 - Compiling source file: C:\Users\Ivana\Desktop\pp1\test\program.mj
+INFO  15:19:24,619 - #40 program
+INFO  15:19:24,619 - #24 MJProgram
+INFO  15:19:24,619 - #24 int
+INFO  15:19:24,621 - #24 x
+INFO  15:19:24,621 - #47 ;
+ERROR 15:19:24,621 - 
+Sintaksna greska na liniji 2
+ERROR 15:19:24,621 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2
